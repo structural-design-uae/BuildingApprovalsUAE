@@ -1,5 +1,13 @@
+import http from 'node:http';
+
 const WP_GRAPHQL_URL = process.env.WORDPRESS_GRAPHQL_URL || 'https://cms.buildingapprovals.ae/graphql';
 const CMS_REVALIDATE_SECONDS = 60;
+const CMS_HOST = 'cms.buildingapprovals.ae';
+const HOSTINGER_INTERNAL_IP = '145.79.210.138';
+
+const shouldUseHostingerInternalGraphql =
+  WP_GRAPHQL_URL.includes(CMS_HOST) &&
+  (process.env.HOME?.includes('/home/u750490608') || process.env.USER === 'u750490608');
 
 export interface WPPost {
   id: string;
@@ -68,6 +76,10 @@ async function wpFetch<T>(query: string, variables?: Record<string, unknown>): P
     throw new Error('WORDPRESS_GRAPHQL_URL is not set');
   }
 
+  if (shouldUseHostingerInternalGraphql) {
+    return wpInternalHttpFetch<T>(query, variables);
+  }
+
   const res = await fetch(WP_GRAPHQL_URL, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -80,6 +92,55 @@ async function wpFetch<T>(query: string, variables?: Record<string, unknown>): P
   }
 
   const json = await res.json();
+
+  if (json.errors) {
+    throw new Error(`WordPress GraphQL errors: ${JSON.stringify(json.errors)}`);
+  }
+
+  return json.data as T;
+}
+
+async function wpInternalHttpFetch<T>(query: string, variables?: Record<string, unknown>): Promise<T> {
+  const body = JSON.stringify({ query, variables });
+
+  const json = await new Promise<{ data?: T; errors?: unknown }>((resolve, reject) => {
+    const req = http.request({
+      hostname: HOSTINGER_INTERNAL_IP,
+      port: 80,
+      path: '/graphql',
+      method: 'POST',
+      headers: {
+        Host: CMS_HOST,
+        'X-Forwarded-Proto': 'https',
+        HTTPS: 'on',
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(body),
+      },
+    }, (res) => {
+      let responseBody = '';
+
+      res.setEncoding('utf8');
+      res.on('data', chunk => {
+        responseBody += chunk;
+      });
+      res.on('end', () => {
+        if (!res.statusCode || res.statusCode < 200 || res.statusCode >= 300) {
+          reject(new Error(`WordPress internal GraphQL request failed: ${res.statusCode} ${responseBody.slice(0, 300)}`));
+          return;
+        }
+
+        try {
+          resolve(JSON.parse(responseBody));
+        } catch (err) {
+          reject(err);
+        }
+      });
+    });
+
+    req.on('error', reject);
+    req.write(body);
+    req.end();
+  });
 
   if (json.errors) {
     throw new Error(`WordPress GraphQL errors: ${JSON.stringify(json.errors)}`);
