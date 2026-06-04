@@ -1,7 +1,8 @@
 import type { MetadataRoute } from "next";
 import { getAllPosts } from '@/lib/getAllPosts';
+import { SITE_URL, serviceCanonicalPaths } from './services/serviceSlugs';
 
-const siteUrl = "https://www.buildingapprovals.ae";
+const siteUrl = SITE_URL;
 
 const serviceIds = [
   "civil-defense",
@@ -22,6 +23,7 @@ const serviceIds = [
   "solar",
   "tent",
   "rta",
+  "concordia",
   "tecom",
   "tpc",
   "trakhees",
@@ -66,7 +68,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Service pages
   const servicePages: MetadataRoute.Sitemap = serviceIds.map((id) => ({
-    url: `${siteUrl}/services/${id}`,
+    url: `${siteUrl}${serviceCanonicalPaths[id] ?? `/services/${id}`}`,
     lastModified,
     changeFrequency: "monthly" as const,
     priority: 0.7,

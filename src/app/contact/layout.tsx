@@ -1,17 +1,17 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contact Us',
+  title: { absolute: 'Contact Us | Building Approvals Dubai' },
   description:
-    'Contact Building Approvals Dubai for authority approvals, permit support, and project consultations across Dubai Municipality, Civil Defense, DEWA, DDA, Trakhees, and more.',
+    'Contact trusted Dubai authority approval, permits & NOCs, consultants. DM, DCD, DDA, DHA, DEWA, Trakhees, Nakheel, RTA, Concordia, and more. Contact now!',
   alternates: {
-    canonical: 'https://www.buildingapprovals.ae/contact',
+    canonical: 'https://buildingapprovals.ae/contact',
   },
   openGraph: {
     title: 'Contact Us | Building Approvals Dubai',
     description:
-      'Contact Building Approvals Dubai for authority approvals, permit support, and project consultations across Dubai Municipality, Civil Defense, DEWA, DDA, Trakhees, and more.',
-    url: 'https://www.buildingapprovals.ae/contact',
+      'Contact trusted Dubai authority approval, permits & NOCs, consultants. DM, DCD, DDA, DHA, DEWA, Trakhees, Nakheel, RTA, Concordia, and more. Contact now!',
+    url: 'https://buildingapprovals.ae/contact',
   },
 };
 

@@ -6,7 +6,7 @@ import './blog.css';
 
 // ─── SITE CONFIG ──────────────────────────────────────────────────────────────
 const SITE_NAME = 'Building Approvals Dubai';
-const SITE_URL  = 'https://www.buildingapprovals.ae';
+const SITE_URL  = 'https://buildingapprovals.ae';
 // ──────────────────────────────────────────────────────────────────────────────
 
 export const revalidate = 60;

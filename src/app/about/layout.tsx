@@ -1,17 +1,17 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About Us',
+  title: { absolute: 'About Us | Building Approvals Dubai' },
   description:
-    'Learn more about Building Approvals Dubai, our authority approval expertise, and how we help clients secure faster, compliant approvals across Dubai.',
+    'Learn about our Building approval consultants helping clients secure Dubai Building Approvals, permits, and NOCs. 15+ years of experience. Contact now!',
   alternates: {
-    canonical: 'https://www.buildingapprovals.ae/about',
+    canonical: 'https://buildingapprovals.ae/about',
   },
   openGraph: {
     title: 'About Us | Building Approvals Dubai',
     description:
-      'Learn more about Building Approvals Dubai, our authority approval expertise, and how we help clients secure faster, compliant approvals across Dubai.',
-    url: 'https://www.buildingapprovals.ae/about',
+      'Learn about our Building approval consultants helping clients secure Dubai Building Approvals, permits, and NOCs. 15+ years of experience. Contact now!',
+    url: 'https://buildingapprovals.ae/about',
   },
 };
 

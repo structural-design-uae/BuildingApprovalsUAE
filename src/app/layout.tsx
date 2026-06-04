@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const siteUrl = new URL("https://www.buildingapprovals.ae");
+const siteUrl = new URL("https://buildingapprovals.ae");
 // Google Analytics property used for gtag configuration.
 const GA_MEASUREMENT_ID = "G-GK7ZKMLRR2";
 // Google Ads conversion tracking ID.
@@ -27,11 +27,11 @@ export const metadata: Metadata = {
   metadataBase: siteUrl,
   // Core titles and description reused across pages.
   title: {
-    default: "Building Approval Dubai | Expert Building Consultants Dubai",
+    default: "Building Approvals Dubai | DM, DCD, DDA, DEWA Consultants",
     template: "%s | Building Approvals Dubai",
   },
   description:
-    "Dubai's trusted Building Consultant & fitout approval services. Dubai municipality, DCD, DDA, DSO, DHA, JAFZA, and all other authority approvals.",
+    "Dubai’s #1 building approvals consultant. Experts in Dubai authority approvals, DM permits, DCD, DDA, DHA, DEWA, Trakhees, and Nakheel approvals across Dubai.",
   // Primary keyword set for search engines.
   keywords: [
     "Dubai authority approvals",
@@ -55,9 +55,9 @@ export const metadata: Metadata = {
     type: "website",
     url: siteUrl,
     siteName: "Building Approvals Dubai",
-    title: "Building Approval Dubai | Expert Building Consultants Dubai",
+    title: "Building Approvals Dubai | DM, DCD, DDA, DEWA Consultants",
     description:
-      "Dubai's trusted Building Consultant & fitout approval services. Dubai municipality, DCD, DDA, DSO, DHA, JAFZA, and all other authority approvals.",
+      "Dubai’s #1 building approvals consultant. Experts in Dubai authority approvals, DM permits, DCD, DDA, DHA, DEWA, Trakhees, and Nakheel approvals across Dubai.",
     images: [
       {
         url: "/images/BA OG Logo_imresizer (1).png?v=2",
@@ -70,9 +70,9 @@ export const metadata: Metadata = {
   // Twitter card metadata for link sharing.
   twitter: {
     card: "summary_large_image",
-    title: "Building Approval Dubai | Expert Building Consultants Dubai",
+    title: "Building Approvals Dubai | DM, DCD, DDA, DEWA Consultants",
     description:
-      "Dubai's trusted Building Consultant & fitout approval services. Dubai municipality, DCD, DDA, DSO, DHA, JAFZA, and all other authority approvals.",
+      "Dubai’s #1 building approvals consultant. Experts in Dubai authority approvals, DM permits, DCD, DDA, DHA, DEWA, Trakhees, and Nakheel approvals across Dubai.",
     images: ["/images/BA OG Logo_imresizer (1).png?v=2"],
   },
   // Canonical URL applied to all routes.
@@ -273,7 +273,7 @@ export default function RootLayout({
                 reviewCount: "11",
               },
               sameAs: [
-                "https://www.buildingapprovals.ae",
+                "https://buildingapprovals.ae",
                 "https://maps.app.goo.gl/WuitF9PhjnDoV71E6",
               ],
               hasOfferCatalog: {
@@ -374,7 +374,7 @@ export default function RootLayout({
                 availableLanguage: ["English", "Arabic"],
               },
               sameAs: [
-                "https://www.buildingapprovals.ae",
+                "https://buildingapprovals.ae",
                 "https://maps.app.goo.gl/WuitF9PhjnDoV71E6",
               ],
             }),

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: { absolute: 'Terms and Conditions | Building Approvals Dubai' },
   description: 'Read the terms and conditions for using Building Approvals Dubai services for fit-out, villa renovation, and modification project approvals.',
   alternates: {
-    canonical: 'https://www.buildingapprovals.ae/terms',
+    canonical: 'https://buildingapprovals.ae/terms',
   },
 };
 

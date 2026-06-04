@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { notFound } from 'next/navigation';
 import ContactFormModal from '../../components/ContactFormModal';
+import { getServiceCanonicalUrl, resolveServiceId } from '../serviceSlugs';
 import './serviceDetail.css';
 
 interface ServiceDetailData {
@@ -2537,6 +2538,108 @@ const servicesData: Record<string, ServiceDetailData> = {
         answer: 'Trakhees requires approved/registered structural engineers, architects, and consultants. Geotechnical reports (soil tests) must meet relevant international codes such as Eurocode or ACI. Structural design calculations must comply with these standards, and all MEP systems must meet Trakhees specifications. Fire safety plans require Civil Defence approval.'
       }
     ]
+  },
+  concordia: {
+    id: 'concordia',
+    title: 'Concordia Approval',
+    subtitle: 'Fast Permit, NOC, and Fitout Approval Support for Concordia-Regulated Projects',
+    icon: (
+      <svg viewBox="0 0 24 24" fill="none" className="service-detail-icon-svg">
+        <path d="M4 20V7L12 3L20 7V20" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+        <path d="M8 20V11H16V20" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+        <path d="M10 15H14" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+      </svg>
+    ),
+    overview: 'Concordia approval is commonly required for fitout, renovation, and modification projects in Concordia-managed communities and properties. Our team supports documentation, drawings, NOC coordination, authority submission, and follow-up so your project can move from planning to approval with fewer delays.',
+    whyImportant: {
+      title: 'Why Concordia Approval Matters',
+      description: 'Concordia approvals help confirm that proposed works follow building management, safety, and community compliance requirements.',
+      points: [
+        'Required before starting many fitout and modification works',
+        'Helps avoid stop-work notices, penalties, and resubmission delays',
+        'Coordinates landlord, building management, and authority requirements',
+        'Confirms drawings and documents match the project scope',
+        'Supports safer handover and smoother project execution',
+        'Keeps approval records clear for contractors, tenants, and owners'
+      ]
+    },
+    process: {
+      title: 'Our Concordia Approval Process',
+      steps: [
+        {
+          number: 1,
+          title: 'Project Review',
+          description: 'We review the unit, project scope, drawings, and building requirements to identify the correct approval path.'
+        },
+        {
+          number: 2,
+          title: 'Document Preparation',
+          description: 'We prepare and organize required drawings, NOCs, contractor documents, and supporting technical files.'
+        },
+        {
+          number: 3,
+          title: 'Submission Coordination',
+          description: 'We coordinate submission requirements and help respond to authority or management comments.'
+        },
+        {
+          number: 4,
+          title: 'Follow-Up and Clearance',
+          description: 'We track the approval progress, manage clarifications, and support the process until the required permit or NOC is issued.'
+        }
+      ]
+    },
+    requirements: {
+      title: 'Common Required Documents',
+      items: [
+        'Tenant or owner details',
+        'Trade license or company documents, where applicable',
+        'Ejari or tenancy contract',
+        'Landlord or building management NOC',
+        'Architectural layout drawings',
+        'MEP drawings, if applicable',
+        'Contractor license and appointment details',
+        'Method statement and work schedule',
+        'Insurance or undertaking documents, where required',
+        'Any authority-specific supporting approvals'
+      ]
+    },
+    benefits: {
+      title: 'Benefits of Professional Concordia Approval Support',
+      items: [
+        'Clear document checklist before submission',
+        'Reduced risk of missing NOCs or incorrect drawings',
+        'Better coordination between tenant, landlord, contractor, and management',
+        'Faster response to review comments',
+        'Practical support for fitout, renovation, and modification scopes',
+        'A smoother path from approval to site work'
+      ]
+    },
+    challenges: {
+      title: 'Common Challenges',
+      items: [
+        'Incomplete landlord or management NOC',
+        'Drawings that do not match site conditions',
+        'Unclear fitout or modification scope',
+        'Missing contractor or insurance documents',
+        'Late responses to review comments',
+        'Confusion between building management and authority requirements'
+      ]
+    },
+    timeline: 'Typical timelines vary by scope, document readiness, and review comments. Many straightforward submissions can move faster when drawings and NOCs are prepared correctly.',
+    faqs: [
+      {
+        question: 'When is Concordia approval required?',
+        answer: 'Concordia approval may be required for fitout, renovation, modification, and other works in Concordia-managed properties or communities. Requirements depend on the project scope and building rules.'
+      },
+      {
+        question: 'Can you help with documents and submission?',
+        answer: 'Yes. We help prepare the document checklist, coordinate required drawings and NOCs, and support submission follow-up until approval is received.'
+      },
+      {
+        question: 'Does Concordia approval require landlord NOC?',
+        answer: 'In many cases, landlord or building management NOC is required before or during the approval process. The exact requirement depends on the property and scope of work.'
+      }
+    ]
   }
 };
 
@@ -2545,13 +2648,14 @@ export default function ServiceDetailPage({ params }: { params: Promise<{ servic
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [activeFaq, setActiveFaq] = useState<number | null>(null);
 
-  const serviceData = servicesData[serviceId];
+  const resolvedServiceId = resolveServiceId(serviceId);
+  const serviceData = servicesData[resolvedServiceId];
 
   if (!serviceData) {
     notFound();
   }
 
-  const serviceUrl = `https://www.buildingapprovals.ae/services/${serviceId}`;
+  const serviceUrl = getServiceCanonicalUrl(serviceId);
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -2565,7 +2669,7 @@ export default function ServiceDetailPage({ params }: { params: Promise<{ servic
     provider: {
       '@type': 'LocalBusiness',
       name: 'Building Approvals',
-      url: 'https://www.buildingapprovals.ae',
+      url: 'https://buildingapprovals.ae',
       telephone: '+971589575610',
       address: {
         '@type': 'PostalAddress',

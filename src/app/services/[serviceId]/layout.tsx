@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { serviceMetadata } from '../serviceMetadata';
+import { SITE_URL } from '../serviceSlugs';
 
 interface ServiceLayoutProps {
   children: React.ReactNode;
@@ -12,11 +13,11 @@ export async function generateMetadata({ params }: ServiceLayoutProps): Promise<
     title: 'Dubai Authority Approval Services | Building Approvals Dubai',
     description:
       'Authority approvals and NOCs across Dubai, including Civil Defense, DEWA, Dubai Municipality, RTA, Trakhees, and more.',
-    canonical: `https://www.buildingapprovals.ae/services/${serviceId}`,
+    canonical: `${SITE_URL}/services/${serviceId}`,
   };
 
   return {
-    title: meta.title,
+    title: { absolute: meta.title },
     description: meta.description,
     alternates: {
       canonical: meta.canonical,

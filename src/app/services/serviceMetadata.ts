@@ -1,8 +1,10 @@
+import { SITE_URL, getServiceCanonicalUrl } from './serviceSlugs';
+
 export const servicesIndexMetadata = {
-  title: 'Dubai Authority Approval Services',
+  title: 'Our Services | Building Approvals Dubai',
   description:
-    'Browse Building Approvals Dubai authority approval services, including Civil Defense, DEWA, Dubai Municipality, RTA, Trakhees, Emaar, Nakheel, DHA, DSO, and more.',
-  canonical: 'https://www.buildingapprovals.ae/services',
+    'Explore expert services for Building Approvals Dubai, including Dubai permits & NOCs, authority approvals, and consultant support for every fitout project.',
+  canonical: `${SITE_URL}/services`,
 };
 
 export const serviceMetadata: Record<
@@ -10,129 +12,159 @@ export const serviceMetadata: Record<
   { title: string; description: string; canonical: string }
 > = {
   'civil-defense': {
-    title: 'Civil Defense Approval Dubai | Building Approvals Dubai',
+    title: 'Civil Defense Approval Dubai | Fast-Track DCD Certificates',
     description:
-      'Get Dubai Civil Defense approvals and NOCs faster with expert fire safety consultants handling documentation, submissions, and inspections.',
-    canonical: 'https://www.buildingapprovals.ae/services/civil-defense',
+      'Professional Civil Defense approval consultants in Dubai. Quick NOC processing, fire safety certificates & DCD permits. 98% first-time approval rate. Contact Now',
+    canonical: getServiceCanonicalUrl('civil-defense'),
   },
   dewa: {
-    title: 'DEWA Approval Service | Building Approvals Dubai',
+    title: 'DEWA Approval Services Dubai | Authority Approval Experts',
     description:
-      'Secure DEWA approvals for electricity and water connections with accurate load calculations, compliant drawings, and faster inspections.',
-    canonical: 'https://www.buildingapprovals.ae/services/dewa',
+      'Professional DEWA Approval services in Dubai for commercial, residential, and fitout projects. Start your authority approval process today. Contact Now!',
+    canonical: getServiceCanonicalUrl('dewa'),
   },
   'dubai-municipality': {
-    title: 'Dubai Municipality Approval | Building Approvals Dubai',
+    title: 'Dubai Municipality Building Approval | Expert DM Permit Services',
     description:
-      'Full Dubai Municipality building permit support with compliant drawings, multi-department coordination, and faster approvals for residential and commercial projects.',
-    canonical: 'https://www.buildingapprovals.ae/services/dubai-municipality',
+      'Expert Dubai Municipality approval services with guaranteed timelines. Fast-track building permits & DM certificates. 15+ years of experience. Contact now!',
+    canonical: getServiceCanonicalUrl('dubai-municipality'),
   },
   emaar: {
-    title: 'Emaar Approval Services | Building Approvals Dubai',
+    title: 'Emaar NOC Dubai | Fast & Smooth Authority Approvals',
     description:
-      'Community NOC services for Emaar projects with compliant submissions, documentation, and authority liaison for smoother approvals.',
-    canonical: 'https://www.buildingapprovals.ae/services/emaar',
+      'Trusted Emaar NOC consultants in Dubai helping businesses secure permits and approvals for fit-out, renovation, and modification projects.',
+    canonical: getServiceCanonicalUrl('emaar'),
   },
   nakheel: {
-    title: 'Nakheel Approval Services | Building Approvals Dubai',
+    title: 'Nakheel NOC Dubai | Professional Permits and NOC Services',
     description:
-      'Get Nakheel approvals and development NOCs with precise documentation, drawings, and authority coordination for community compliance.',
-    canonical: 'https://www.buildingapprovals.ae/services/nakheel',
+      'Professional Nakheel Permits & NOC services in Dubai for villas, offices, shops, and modifications. Fast, clear authority approval guidance. Contact now!',
+    canonical: getServiceCanonicalUrl('nakheel'),
   },
   'food-control': {
-    title: 'Food Control Permit Dubai | Building Approvals Dubai',
+    title: 'Food Control Department Approval | Building Approvals Dubai',
     description:
-      'Obtain Food Control Department permits for restaurants and cafes in Dubai with compliant layouts, hygiene standards, and faster approvals.',
-    canonical: 'https://www.buildingapprovals.ae/services/food-control',
+      'Fast Food Control Department approval services in Dubai for restaurants, cafes, kitchens, and food businesses. Get permit support today.',
+    canonical: getServiceCanonicalUrl('food-control'),
   },
   jafza: {
-    title: 'JAFZA Approval Services | Building Approvals Dubai',
+    title: 'JAFZA NOC Dubai | Fast track Authority Permits and NOCs',
     description:
-      'JAFZA approvals for industrial and commercial projects with compliant documentation, inspections, and authority coordination.',
-    canonical: 'https://www.buildingapprovals.ae/services/jafza',
+      'Secure JAFZA NOC for projects in Dubai with expert documentation, submission, and approval coordination support. Get instant expert consultation. Contact now!',
+    canonical: getServiceCanonicalUrl('jafza'),
   },
   dha: {
-    title: 'DHA Approval | Building Approvals Dubai',
+    title: 'DHA Approval Dubai | Complete DDA Permits & NOC Support',
     description:
-      'Dubai Health Authority approvals for clinics and healthcare facilities, including licensing, compliant plans, and inspection support.',
-    canonical: 'https://www.buildingapprovals.ae/services/dha',
+      'Complete DHA licensing solutions for healthcare facilities in Dubai. Medical center permits, clinic approvals & pharmacy licenses. Get instant Consultation!',
+    canonical: getServiceCanonicalUrl('dha'),
   },
   dso: {
-    title: 'DSO Approval | Building Approvals Dubai',
+    title: 'DSO Approval Services Dubai | Permits & NOCs',
     description:
-      'Fast-track DSO approvals with compliant plans, documentation, and coordination for Dubai Silicon Oasis projects.',
-    canonical: 'https://www.buildingapprovals.ae/services/dso',
+      'Fast and professional DSO Approval & DIEZ Approval support in Dubai for fitout and building modification projects. Contact authority approval experts today.',
+    canonical: getServiceCanonicalUrl('dso'),
   },
   dda: {
-    title: 'Dubai Development Authority Approval | Building Approvals Dubai',
+    title: 'DDA Approval Dubai | Complete DDA Permits & NOC Support',
     description:
-      'Dubai Development Authority approvals with full documentation handling, compliant designs, and authority liaison.',
-    canonical: 'https://www.buildingapprovals.ae/services/dda',
+      'Secure DDA Approval in Dubai with Building Approvals Dubai. Expert help for Dubai authority approvals, permits, and NOCs for fitout and renovation projects.',
+    canonical: getServiceCanonicalUrl('dda'),
   },
   signage: {
-    title: 'Signage Permit Dubai | Building Approvals Dubai',
+    title: 'Signage Approval Dubai | Expert help for Shops and Offices',
     description:
-      'Secure Dubai signage permits with compliant designs, authority submissions, and faster approvals for indoor and outdoor signage.',
-    canonical: 'https://www.buildingapprovals.ae/services/signage',
+      'Professional Dubai signage approval services for retail shops, offices, restaurants, and commercial properties. Get permits and NOCs with ease.',
+    canonical: getServiceCanonicalUrl('signage'),
   },
   spa: {
-    title: 'Spa Approval Dubai | Building Approvals Dubai',
+    title: 'Spa Approval Dubai | Expert Service for Wellness Centers',
     description:
-      'Get Dubai spa approvals with hygienic layouts, safety compliance, and full authority submission support.',
-    canonical: 'https://www.buildingapprovals.ae/services/spa',
+      'Get fast spa approval services in Dubai for salons, wellness centers, and spa facilities with expert support for permits and NOCs. Contact now!',
+    canonical: getServiceCanonicalUrl('spa'),
   },
   shisha: {
     title: 'Shisha Cafe License Dubai | Building Approvals Dubai',
     description:
-      'Shisha cafe licensing and approvals in Dubai with ventilation compliance, documentation, and authority coordination.',
-    canonical: 'https://www.buildingapprovals.ae/services/shisha',
+      'Professional Shisha Cafe License Dubai supports cafe owners, restaurants, and lounges needing authority approvals and permit assistance.',
+    canonical: getServiceCanonicalUrl('shisha'),
   },
   smoking: {
-    title: 'Smoking Permit Dubai | Building Approvals Dubai',
+    title: 'Smoking Permit Dubai | Fast Approval & Permits Services',
     description:
-      'Smoking permits for cafes and lounges in Dubai with compliant ventilation, safety standards, and faster approvals.',
-    canonical: 'https://www.buildingapprovals.ae/services/smoking',
+      'Professional Smoking Permit services in Dubai for cafes, lounges, and restaurants. Get smooth approval support from start to completion.',
+    canonical: getServiceCanonicalUrl('smoking'),
   },
   pool: {
-    title: 'Swimming Pool Approval Dubai | Building Approvals Dubai',
+    title: 'Swimming Pool Approval Dubai | Fast Design & Safety Permits',
     description:
-      'Dubai swimming pool approvals with compliant designs, safety standards, and authority submissions.',
-    canonical: 'https://www.buildingapprovals.ae/services/pool',
+      'Expert swimming pool approval services in Dubai. design approval, safety certificates & municipality permits. Guaranteed compliance with Dubai regulations.',
+    canonical: getServiceCanonicalUrl('pool'),
   },
   solar: {
-    title: 'Solar Approval Dubai | Building Approvals Dubai',
+    title: 'Solar Approval Dubai | Permits & NOCs Services Dubai',
     description:
-      'Secure solar PV approvals in Dubai with compliant designs, DEWA coordination, and grid connection support.',
-    canonical: 'https://www.buildingapprovals.ae/services/solar',
+      'Professional Solar Approval Dubai consultants helping with authority permits, solar NOC, documentation, and approval coordination. Contact now!',
+    canonical: getServiceCanonicalUrl('solar'),
   },
   tent: {
     title: 'Tent Approval Dubai | Building Approvals Dubai',
     description:
       'Tent and temporary structure approvals in Dubai with safety compliance, documentation, and authority liaison.',
-    canonical: 'https://www.buildingapprovals.ae/services/tent',
+    canonical: getServiceCanonicalUrl('tent'),
   },
   rta: {
-    title: 'RTA Permit Dubai | Building Approvals Dubai',
+    title: 'RTA Approval Dubai | Fast Track Permit & NOC Services',
     description:
-      'RTA permits for Dubai projects, including road works, access, and transport-related approvals with compliant submissions.',
-    canonical: 'https://www.buildingapprovals.ae/services/rta',
+      'Get expert Dubai RTA Approval support for permits, NOCs, fit-out, renovation, signage, and construction projects. Fast Dubai Authority Approval assistance.',
+    canonical: getServiceCanonicalUrl('rta'),
   },
   tecom: {
     title: 'Tecom & DCCA Approval | Building Approvals Dubai',
     description:
       'Tecom and DCCA approvals with compliant designs, documentation, and authority coordination for free zone projects.',
-    canonical: 'https://www.buildingapprovals.ae/services/tecom',
+    canonical: getServiceCanonicalUrl('tecom'),
   },
   tpc: {
     title: 'Third Party Consultants Approval | Building Approvals Dubai',
     description:
       'Third-party consultant support for Dubai authority submissions, compliance reviews, and faster approvals.',
-    canonical: 'https://www.buildingapprovals.ae/services/tpc',
+    canonical: getServiceCanonicalUrl('tpc'),
   },
   trakhees: {
-    title: 'Trakhees Approval | Building Approvals Dubai',
+    title: 'Trakhees Approval Dubai | Expert Authority Approval Support',
     description:
-      'Trakhees approvals for Dubai free zones with EHS compliance, building permits, and inspection coordination.',
-    canonical: 'https://www.buildingapprovals.ae/services/trakhees',
+      'Trusted Trakhees approval consultants in Dubai helping with permits, NOCs, fitout approvals, and project documentation from start to finish. Contact now!',
+    canonical: getServiceCanonicalUrl('trakhees'),
+  },
+  concordia: {
+    title: 'Concordia Approval Dubai | Get Fast & Easy Approvals',
+    description:
+      'Get Concordia approval services in Dubai for fitout, renovation, and modification projects with expert support for permits, NOC, and authority approvals.',
+    canonical: getServiceCanonicalUrl('concordia'),
   },
 };
+
+for (const [alias, serviceId] of Object.entries({
+  'civil-defence-approvals-dubai': 'civil-defense',
+  'dewa-approvals-dubai': 'dewa',
+  'dubai-municipality-approvals': 'dubai-municipality',
+  'emaar-noc-dubai': 'emaar',
+  'nakheel-noc-dubai': 'nakheel',
+  'food-control-department-approval-dubai': 'food-control',
+  'jafza-noc-dubai': 'jafza',
+  'dha-approvals-dubai': 'dha',
+  'dso-approvals-dubai': 'dso',
+  'dubai-development-authority-approvals': 'dda',
+  'signage-approvals-dubai': 'signage',
+  'spa-approvals-dubai': 'spa',
+  'shisha-cafe-license-dubai': 'shisha',
+  'smoking-permit-dubai': 'smoking',
+  'swimming-pool-approvals-dubai': 'pool',
+  'solar-approvals-dubai': 'solar',
+  'rta-approvals-dubai': 'rta',
+  'trakhees-approvals-dubai': 'trakhees',
+  'concordia-approvals-dubai': 'concordia',
+})) {
+  serviceMetadata[alias] = serviceMetadata[serviceId];
+}

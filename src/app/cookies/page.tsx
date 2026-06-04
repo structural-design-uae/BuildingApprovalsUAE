@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: { absolute: 'Cookies Policy | Building Approvals Dubai' },
   description: 'Learn how Building Approvals Dubai uses cookies to improve website performance, user experience, analytics, and marketing.',
   alternates: {
-    canonical: 'https://www.buildingapprovals.ae/cookies',
+    canonical: 'https://buildingapprovals.ae/cookies',
   },
 };
 

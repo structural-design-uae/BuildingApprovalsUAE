@@ -10,7 +10,7 @@ import { cleanBlogMetaTitle } from '@/lib/blog-seo';
 import './blog-post.css';
 
 // ─── SITE CONFIG ──────────────────────────────────────────────────────────────
-const BASE_URL       = 'https://www.buildingapprovals.ae';
+const BASE_URL       = 'https://buildingapprovals.ae';
 const SITE_NAME      = 'Building Approvals Dubai';
 const LOGO_URL       = `${BASE_URL}/images/BA OG Logo_imresizer (1).png?v=2`;
 const TWITTER_HANDLE = '@buildingapprovalsdubai';

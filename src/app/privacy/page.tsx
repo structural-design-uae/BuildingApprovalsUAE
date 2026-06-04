@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: { absolute: 'Privacy Policy | Building Approvals Dubai' },
   description: 'Learn how Building Approvals Dubai collects, uses, and protects personal data submitted through our website and enquiry forms.',
   alternates: {
-    canonical: 'https://www.buildingapprovals.ae/privacy',
+    canonical: 'https://buildingapprovals.ae/privacy',
   },
 };
 

@@ -2,6 +2,7 @@
 
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import ContactFormModal from '../components/ContactFormModal';
+import { serviceCanonicalPaths } from './serviceSlugs';
 import './services.css';
 
 interface Service {
@@ -234,6 +235,18 @@ const ServicesPage: React.FC = () => {
       description: 'Professional RTA permit processing and transport-related approvals. Complete coordination with Roads and Transport Authority.'
     },
     {
+      id: 'concordia',
+      title: 'Concordia Approval',
+      icon: (
+        <svg viewBox="0 0 24 24" fill="none" className="service-icon-svg">
+          <path d="M4 20V7L12 3L20 7V20" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+          <path d="M8 20V11H16V20" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+          <path d="M10 15H14" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
+        </svg>
+      ),
+      description: 'Expert Concordia approval support for fitout, renovation, and modification projects, including documentation, NOC coordination, submissions, and authority follow-up.'
+    },
+    {
       id: 'tecom',
       title: 'Tecom and DCCA Approval',
       icon: (
@@ -460,7 +473,7 @@ const ServicesPage: React.FC = () => {
                     </svg>
                   </button>
                   <a
-                    href={`/services/${activeServiceData.id}`}
+                    href={serviceCanonicalPaths[activeServiceData.id] ?? `/services/${activeServiceData.id}`}
                     className="panel-cta panel-cta-secondary"
                   >
                     View Service
@@ -494,7 +507,7 @@ const ServicesPage: React.FC = () => {
                 <h3 className="service-card-title">{service.title}</h3>
                 <p className="service-card-description">{service.description}</p>
                 <a
-                  href={`/services/${service.id}`}
+                  href={serviceCanonicalPaths[service.id] ?? `/services/${service.id}`}
                   className="service-card-cta"
                 >
                   Learn More

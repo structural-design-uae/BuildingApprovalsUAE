@@ -19,7 +19,7 @@ const HeroSection: React.FC = () => {
         <div className="hero-content">
           {/* Main Headline */}
           <h1 className="hero-headline">
-            Dubai&apos;s Leading Approval Service Experts
+            Building Approvals, Permits &amp; NOC Consultants in Dubai
           </h1>
 
           {/* Subheadline */}

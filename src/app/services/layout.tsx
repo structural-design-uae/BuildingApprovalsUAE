@@ -2,13 +2,13 @@ import type { Metadata } from 'next';
 import { servicesIndexMetadata } from './serviceMetadata';
 
 export const metadata: Metadata = {
-  title: servicesIndexMetadata.title,
+  title: { absolute: servicesIndexMetadata.title },
   description: servicesIndexMetadata.description,
   alternates: {
     canonical: servicesIndexMetadata.canonical,
   },
   openGraph: {
-    title: `${servicesIndexMetadata.title} | Building Approvals Dubai`,
+    title: servicesIndexMetadata.title,
     description: servicesIndexMetadata.description,
     url: servicesIndexMetadata.canonical,
   },
