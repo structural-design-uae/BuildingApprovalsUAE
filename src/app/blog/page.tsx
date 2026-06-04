@@ -10,6 +10,7 @@ const SITE_URL  = 'https://www.buildingapprovals.ae';
 // ──────────────────────────────────────────────────────────────────────────────
 
 export const revalidate = 60;
+export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Blog | ${SITE_NAME}`,
