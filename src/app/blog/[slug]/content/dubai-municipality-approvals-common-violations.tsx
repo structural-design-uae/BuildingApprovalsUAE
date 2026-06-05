@@ -188,7 +188,7 @@ export default function BlogContent() {
         <img src="https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dubai-municipality-content-1-1770282014471.jpeg" alt="Building Approvals Dubai - Municipality Approval in Dubai: The Most Common Fit-Out Approval Violations" />
       </figure>
 
-      <h3><em><span className="text-size-xl">Also Read: </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-dm-approvals-compliance-guide"><span className="text-size-xl">Dubai Municipality (DM): Approvals &amp; Compliance Guide 2026</span></a></h3>
+      <h3><em><span>Also Read: </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-dm-approvals-compliance-guide"><span>Dubai Municipality (DM): Approvals &amp; Compliance Guide 2026</span></a></h3>
 
       <h2>Step-by-step (works for most fit-out approvals in Dubai)</h2>
 
@@ -283,7 +283,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span className="text-size-xl">Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><span className="text-size-xl">Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>Ready to Apply?</h2>
