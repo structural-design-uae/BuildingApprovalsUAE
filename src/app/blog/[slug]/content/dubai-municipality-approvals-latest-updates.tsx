@@ -54,7 +54,7 @@ export default function BlogContent() {
       </figure>
 
       <blockquote>
-        <p><strong><span className="text-size-xl">Keep Learning:</span></strong><span className="text-size-xl"> </span><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-services-complete-guide-for-residents"><span className="text-size-xl">Dubai Municipality Services: Complete Guide for Residents</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-services-complete-guide-for-residents"><span>Dubai Municipality Services: Complete Guide for Residents</span></a></p>
       </blockquote>
 
       <h2>4. Real-Time Tracking &amp; Approval Transparency</h2>
@@ -103,7 +103,7 @@ export default function BlogContent() {
       <p>Digital systems help evaluate sustainability compliance early in the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> process, making it easier to identify and address green building requirements before submission.</p>
 
       <blockquote>
-        <p><strong><span className="text-size-xl">Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><span className="text-size-xl">10 Common Fit-Out Approval Mistakes in Dubai 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></a></p>
       </blockquote>
 
       <h2>7. Multi-Department Digital Coordination</h2>
