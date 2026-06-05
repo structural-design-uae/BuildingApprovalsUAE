@@ -39,9 +39,10 @@ export const blogPosts: BlogPost[] = [
     id: '1778239781036',
     title: "Dubai Municipality Approval Documents Checklist 2026",
     slug: 'dubai-municipality-approval-documents-2026',
-    category: "Dubai Municipality",
-    author: "Building Approvals Dubai",
+    category: "Dubai Municipality Approvals",
+    author: "Building Approvals",
     date: '2026-05-08',
+    dateModified: '2026-06-05',
     excerpt: "Get a clear Dubai Municipality approval document checklist for 2026, including drawings, NOCs, IDs, Ejari, trade license, and practical tips to avoid delays.",
     image: "https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/building-approvals-dubai-dubai-municipality-list-1778239781036.jpg",
     coverImage: "https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/building-approvals-dubai-dubai-municipality-cover-1778239781036.jpg",
@@ -49,14 +50,6 @@ export const blogPosts: BlogPost[] = [
     metaDescription: "Get a clear Dubai Municipality approval document checklist for 2026, including drawings, NOCs, IDs, Ejari, trade license, and practical tips to avoid delays.",
     keywords: ["Dubai Municipality", "dm approval"],
     ogImage: "https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/building-approvals-dubai-dubai-municipality-cover-1778239781036.jpg",
-    faqs: [
-      { question: 'What documents are required for Dubai Municipality approval?', answer: 'The main documents include Emirates ID or passport, trade license, title deed, Ejari, landlord NOC, existing layout, proposed drawings, and project-specific technical drawings including structural or MEP plans.' },
-      { question: 'Is Ejari required for DM approval?', answer: 'Yes, Ejari is commonly required for tenant-related commercial fit-out, office renovation, shop modification, and leased property approval applications.' },
-      { question: 'Do I need Dubai Civil Defence approval with DM approval?', answer: 'Yes, if your project affects fire alarm, fire fighting, emergency exits, kitchen exhaust, sprinklers, or life safety systems, DCD approval may be required alongside DM approval.' },
-      { question: 'Can I submit the Dubai Municipality approval myself?', answer: 'Some basic applications may be handled directly, but technical projects usually require a registered consultant or approved contractor.' },
-      { question: 'Why does DM approval get rejected?', answer: 'Common reasons include missing NOCs, unclear drawings, a mismatch between documents, unapproved contractors, structural changes without calculations, and incomplete MEP details.' },
-      { question: 'How can I avoid delays in municipality approval in Dubai?', answer: 'Prepare all documents before submission, use updated drawings, confirm authority requirements, appoint qualified professionals, and check that every document matches the project scope.' },
-    ],
   },
 
   {

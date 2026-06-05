@@ -7,7 +7,7 @@ export default function BlogContent() {
 
       <h3>Table of Contents</h3>
 
-      <ol className="text-align-left">
+      <ol>
         <li>What is Dubai Municipality approval?</li>
         <li>Required documents checklist</li>
         <li>Project-specific documents</li>
@@ -49,7 +49,7 @@ export default function BlogContent() {
 
       <p>For larger construction or technical works, Dubai projects may also require design drawings, environmental permits, utility <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a>, road access approvals, and related authority NOCs, depending on the scope.</p>
 
-      <p><strong><span className="text-size-lg">Also Read: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span className="text-size-lg">DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
+      <p><strong><span>Also Read: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
 
       <h2>Common Mistakes That Delay DM Approval</h2>
 
@@ -59,7 +59,7 @@ export default function BlogContent() {
         <li>Other common mistakes include using outdated drawings, missing landlord NOC, appointing an unqualified contractor, submitting unclear MEP layouts, or starting work before receiving <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildindubai.gov.ae/services">approval</a>.</li>
       </ul>
 
-      <p><strong><span className="text-size-lg">Also Read: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><span className="text-size-lg">Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
+      <p><strong><span>Also Read: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
 
       <h2>Conclusion</h2>
 
