@@ -1,13 +1,17 @@
 import http from 'node:http';
 
-const WP_GRAPHQL_URL = process.env.WORDPRESS_GRAPHQL_URL || 'https://cms.buildingapprovals.ae/graphql';
+const DEFAULT_CMS_URL = 'https://cms.buildingapprovals.ae';
+const WP_GRAPHQL_URL = process.env.WORDPRESS_GRAPHQL_URL?.trim() || '';
+const WP_REST_BASE_URL = (
+  process.env.WORDPRESS_REST_URL?.trim() ||
+  new URL('/wp-json/wp/v2', WP_GRAPHQL_URL || DEFAULT_CMS_URL).toString()
+).replace(/\/$/, '');
 const CMS_REVALIDATE_SECONDS = 60;
-const CMS_HOST = 'cms.buildingapprovals.ae';
-const HOSTINGER_INTERNAL_IP = '145.79.210.138';
-const WP_REST_BASE_URL = new URL('/wp-json/wp/v2', WP_GRAPHQL_URL).toString().replace(/\/$/, '');
+const CMS_HOST = new URL(WP_REST_BASE_URL).hostname;
+const HOSTINGER_INTERNAL_IP = process.env.WORDPRESS_INTERNAL_IP?.trim() || '';
 
-const shouldUseHostingerInternalGraphql =
-  WP_GRAPHQL_URL.includes(CMS_HOST) &&
+const shouldUseHostingerInternalCms =
+  Boolean(HOSTINGER_INTERNAL_IP) &&
   (process.env.HOME?.includes('/home/u750490608') || process.env.USER === 'u750490608');
 
 export interface WPPost {
@@ -97,7 +101,7 @@ async function wpFetch<T>(query: string, variables?: Record<string, unknown>): P
     throw new Error('WORDPRESS_GRAPHQL_URL is not set');
   }
 
-  if (shouldUseHostingerInternalGraphql) {
+  if (shouldUseHostingerInternalCms) {
     return wpInternalHttpFetch<T>(query, variables);
   }
 
@@ -171,6 +175,11 @@ async function wpInternalHttpFetch<T>(query: string, variables?: Record<string, 
 }
 
 export async function getWordPressPosts(): Promise<WPPost[]> {
+  const restPosts = await getWordPressPostsFromRest();
+  if (restPosts.length > 0) return restPosts;
+
+  // REST is built into WordPress and is the low-overhead default. Only make
+  // the additional GraphQL request when an endpoint was explicitly configured.
   if (!WP_GRAPHQL_URL) return [];
 
   const posts: WPPost[] = [];
@@ -182,9 +191,6 @@ export async function getWordPressPosts(): Promise<WPPost[]> {
       nodes: WPPost[];
     };
   };
-
-  const restPosts = await getWordPressPostsFromRest();
-  if (restPosts.length > 0) return restPosts;
 
   try {
     do {
@@ -202,10 +208,10 @@ export async function getWordPressPosts(): Promise<WPPost[]> {
 }
 
 export async function getWordPressPost(slug: string): Promise<WPPost | null> {
-  if (!WP_GRAPHQL_URL) return null;
-
   const restPost = await getWordPressPostFromRest(slug);
   if (restPost) return restPost;
+
+  if (!WP_GRAPHQL_URL) return null;
 
   try {
     const data = await wpFetch<{ post: WPPost | null }>(POST_QUERY, { slug });
@@ -240,16 +246,22 @@ async function getWordPressPostFromRest(slug: string): Promise<WPPost | null> {
 }
 
 async function wpRestFetch<T>(path: string): Promise<T> {
-  if (shouldUseHostingerInternalGraphql) {
+  if (shouldUseHostingerInternalCms) {
     return wpInternalRestFetch<T>(path);
   }
 
   const res = await fetch(`${WP_REST_BASE_URL}${path}`, {
+    signal: AbortSignal.timeout(5000),
     next: { tags: ['wordpress'], revalidate: CMS_REVALIDATE_SECONDS },
   });
 
   if (!res.ok) {
     throw new Error(`WordPress REST request failed: ${res.status}`);
+  }
+
+  const contentType = res.headers.get('content-type');
+  if (!contentType?.includes('application/json')) {
+    throw new Error(`WordPress REST returned ${contentType || 'an unknown content type'}`);
   }
 
   return res.json() as Promise<T>;
