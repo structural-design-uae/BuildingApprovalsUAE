@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -H 0.0.0.0 -p ${PORT:-3000}",
-    "lint": "eslint"
+    "lint": "eslint",
+    "blogs:migrate": "node scripts/migrate-current-blogs-to-wordpress.js",
+    "blogs:verify": "node scripts/migrate-current-blogs-to-wordpress.js --verify"
   },
   "engines": {
     "node": ">=20.11.0"

@@ -28,32 +28,33 @@ function wpPostToBlogPost(wp: WPPost): BlogPost {
 }
 
 /**
- * Returns all blog posts — local static posts first (newest first),
- * then WordPress posts sorted by publish date descending.
- * WordPress posts with a slug that matches a local post are skipped (local wins).
+ * Returns WordPress posts first, with local posts retained as a migration
+ * fallback. Once a local slug exists in WordPress, the CMS version wins.
  */
 export async function getAllPosts(): Promise<BlogPost[]> {
   const wpRaw = await getWordPressPosts();
-  const localSlugs = new Set(blogPosts.map(p => p.slug));
+  const wpSlugs = new Set(wpRaw.map(post => post.slug));
 
   const wpPosts = wpRaw
-    .filter(wp => !localSlugs.has(wp.slug))
     .map(wpPostToBlogPost)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-  return [...wpPosts, ...blogPosts];
+  const fallbackPosts = blogPosts.filter(post => !wpSlugs.has(post.slug));
+
+  return [...wpPosts, ...fallbackPosts].sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
 }
 
 /**
- * Looks up a post by slug: checks local posts first, then WordPress.
- * For WordPress posts, fetches the full content in a single query.
+ * Looks up WordPress first and uses the local TSX article only until that slug
+ * has been migrated to the CMS.
  */
 export async function getPostBySlug(slug: string): Promise<(BlogPost & { wpContent?: string }) | null> {
-  const local = blogPosts.find(p => p.slug === slug);
-  if (local) return local;
-
   const wp = await getWordPressPost(slug);
-  if (!wp) return null;
+  if (wp) {
+    return { ...wpPostToBlogPost(wp), wpContent: wp.content };
+  }
 
-  return { ...wpPostToBlogPost(wp), wpContent: wp.content };
+  return blogPosts.find(post => post.slug === slug) ?? null;
 }

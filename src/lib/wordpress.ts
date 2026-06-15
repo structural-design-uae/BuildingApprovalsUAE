@@ -1,4 +1,5 @@
 import http from 'node:http';
+import sanitizeHtml from 'sanitize-html';
 
 const DEFAULT_CMS_URL = 'https://cms.buildingapprovals.ae';
 const WP_GRAPHQL_URL = process.env.WORDPRESS_GRAPHQL_URL?.trim() || '';
@@ -313,7 +314,7 @@ function restPostToWpPost(post: WPRestPost): WPPost {
     title: stripHtmlTags(post.title.rendered),
     slug: post.slug,
     excerpt: post.excerpt.rendered,
-    content: post.content?.rendered ?? '',
+    content: sanitizeWordPressContent(post.content?.rendered ?? ''),
     date: post.date,
     modified: post.modified,
     featuredImage: featuredImage?.source_url
@@ -330,6 +331,58 @@ function restPostToWpPost(post: WPRestPost): WPPost {
         .map(term => ({ name: term.name })),
     },
   };
+}
+
+function sanitizeWordPressContent(html: string): string {
+  return sanitizeHtml(html, {
+    allowedTags: sanitizeHtml.defaults.allowedTags.concat([
+      'figure',
+      'figcaption',
+      'img',
+      'picture',
+      'source',
+      'video',
+      'iframe',
+    ]),
+    allowedAttributes: {
+      ...sanitizeHtml.defaults.allowedAttributes,
+      '*': ['class', 'id'],
+      a: ['href', 'name', 'target', 'rel', 'class'],
+      img: [
+        'src',
+        'srcset',
+        'sizes',
+        'alt',
+        'title',
+        'width',
+        'height',
+        'loading',
+        'class',
+      ],
+      source: ['src', 'srcset', 'sizes', 'type'],
+      video: ['src', 'controls', 'poster', 'width', 'height'],
+      iframe: [
+        'src',
+        'title',
+        'width',
+        'height',
+        'allow',
+        'allowfullscreen',
+        'loading',
+      ],
+    },
+    allowedSchemes: ['http', 'https', 'mailto', 'tel'],
+    allowedIframeHostnames: [
+      'www.youtube.com',
+      'youtube.com',
+      'player.vimeo.com',
+    ],
+    transformTags: {
+      a: sanitizeHtml.simpleTransform('a', {
+        rel: 'noopener noreferrer',
+      }),
+    },
+  });
 }
 
 export function stripHtmlTags(html: string): string {
