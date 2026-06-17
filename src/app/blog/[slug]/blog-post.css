@@ -127,6 +127,7 @@
   letter-spacing: -0.5px;
   position: relative;
   padding-bottom: 16px;
+  scroll-margin-top: 120px;
 }
 
 .blog-post-content h2::after {
@@ -182,7 +183,7 @@
 .blog-post-content ul,
 .blog-post-content ol {
   margin: 20px 0;
-  padding-left: 0;
+  padding-left: 18px;
   list-style: none;
 }
 
@@ -191,7 +192,7 @@
   line-height: 1.65;
   color: #1e293b;
   margin-bottom: 12px;
-  padding-left: 32px;
+  padding-left: 38px;
   position: relative;
 }
 
@@ -271,6 +272,103 @@
   border-color: #006efe;
 }
 
+/* ── WhatsApp Blog CTA ─────────────────────────────────────────────────────── */
+.blog-whatsapp-cta {
+  width: 100%;
+  margin: 30px 0 46px;
+  padding: 34px 40px;
+  background:
+    radial-gradient(circle at top right, rgba(37, 211, 102, 0.14), transparent 34%),
+    linear-gradient(135deg, #f8fbff 0%, #eef6ff 54%, #f7fffb 100%);
+  border: 1px solid #d8e7ff;
+  border-radius: 24px;
+  box-shadow: 0 16px 40px rgba(0, 110, 254, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.blog-whatsapp-cta::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-top: 4px solid #006efe;
+  pointer-events: none;
+}
+
+.blog-whatsapp-cta-middle {
+  margin: 48px 0;
+}
+
+.blog-whatsapp-cta-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 26px;
+}
+
+.blog-whatsapp-cta-text span {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: #128c7e;
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.blog-post-content .blog-whatsapp-cta-text h2,
+.blog-whatsapp-cta-text h2 {
+  margin: 0;
+  padding: 0;
+  color: #0c1f3f;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.6px;
+}
+
+.blog-post-content .blog-whatsapp-cta-text h2::after {
+  display: none;
+}
+
+.blog-whatsapp-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: linear-gradient(135deg, #25d366, #128c7e);
+  color: #ffffff;
+  padding: 15px 28px;
+  border: 0;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 800;
+  white-space: nowrap;
+  box-shadow: 0 12px 26px rgba(37, 211, 102, 0.3);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.blog-post-content .blog-whatsapp-cta-btn {
+  color: #ffffff;
+  border-bottom: 0;
+}
+
+.blog-whatsapp-cta-btn:hover {
+  color: #ffffff;
+  transform: translateY(-3px);
+  box-shadow: 0 16px 34px rgba(37, 211, 102, 0.4);
+}
+
+.blog-whatsapp-cta-icon {
+  width: 22px;
+  height: 22px;
+  fill: #ffffff;
+  flex: 0 0 auto;
+}
+
 /* ── Pro Tip ───────────────────────────────────────────────────────────────── */
 .pro-tip,
 .tip {
@@ -325,13 +423,14 @@
 .key-takeaways ul,
 .key-takeaways-box ul {
   margin: 0;
+  padding-left: 18px;
 }
 
 .key-takeaways li,
 .key-takeaways-box li {
   color: #064e3b;
   font-weight: 600;
-  padding-left: 28px;
+  padding-left: 36px;
 }
 
 .key-takeaways li::before,
@@ -884,6 +983,33 @@
   .blog-post-content p,
   .blog-post-content li {
     font-size: 16px;
+  }
+
+  .blog-whatsapp-cta {
+    padding: 30px 22px;
+    margin: 26px 0 38px;
+    border-radius: 20px;
+  }
+
+  .blog-whatsapp-cta-middle {
+    margin: 38px 0;
+  }
+
+  .blog-whatsapp-cta-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+
+  .blog-post-content .blog-whatsapp-cta-text h2,
+  .blog-whatsapp-cta-text h2 {
+    font-size: 24px;
+  }
+
+  .blog-whatsapp-cta-btn {
+    width: 100%;
+    max-width: 260px;
+    padding: 14px 24px;
   }
 
   .cta-box {

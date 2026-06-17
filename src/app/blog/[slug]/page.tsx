@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { getAllPosts, getPostBySlug } from '@/lib/getAllPosts';
 import BlogContent from './BlogContent';
 import BlogTOC from './BlogTOC';
+import BlogCtaInjector from './BlogCtaInjector';
+import BlogWhatsAppCTA from './BlogWhatsAppCTA';
 import WordPressContent from './WordPressContent';
 import BlogBottomActions from '../BlogBottomActions';
 import { cleanBlogMetaTitle } from '@/lib/blog-seo';
@@ -212,10 +214,12 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
 
           <div className="blog-post-content" itemProp="articleBody">
             <BlogTOC />
+            <BlogWhatsAppCTA placement="after-toc" />
             {isWordPressPost && wpContent
               ? <WordPressContent html={wpContent} />
               : <BlogContent slug={slug} />
             }
+            <BlogCtaInjector />
           </div>
 
           <section className="blog-post-approval-cta" aria-label="Building approvals in Dubai">

@@ -6,21 +6,30 @@ import './blog-toc.css';
 interface TocEntry {
   id: string;
   text: string;
-  level: 2 | 3;
 }
 
 export default function BlogTOC() {
   const [entries, setEntries] = useState<TocEntry[]>([]);
   const [activeId, setActiveId] = useState<string>('');
+  const [isOpen, setIsOpen] = useState(false);
   const observerRef = useRef<IntersectionObserver | null>(null);
+
+  function scrollToHeading(id: string) {
+    const heading = document.getElementById(id);
+    if (!heading) return;
+
+    const offset = 140;
+    const top = heading.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top: Math.max(top, 0), behavior: 'smooth' });
+  }
 
   useEffect(() => {
     const contentEl = document.querySelector('.blog-post-content');
     if (!contentEl) return;
 
     const headings = Array.from(
-      contentEl.querySelectorAll<HTMLElement>('h2, h3')
-    );
+      contentEl.querySelectorAll<HTMLElement>('.wp-content h2, .blog-content-wrapper h2')
+    ).filter(heading => !heading.closest('.blog-whatsapp-cta'));
 
     const collected: TocEntry[] = headings.map((heading, i) => {
       if (!heading.id) {
@@ -29,11 +38,12 @@ export default function BlogTOC() {
       return {
         id: heading.id,
         text: heading.textContent?.trim() ?? '',
-        level: (heading.tagName === 'H2' ? 2 : 3) as 2 | 3,
       };
     }).filter(e => e.text.length > 0);
 
-    setEntries(collected);
+    const entriesFrame = window.requestAnimationFrame(() => {
+      setEntries(collected);
+    });
 
     observerRef.current?.disconnect();
     observerRef.current = new IntersectionObserver(
@@ -50,32 +60,57 @@ export default function BlogTOC() {
 
     headings.forEach(h => observerRef.current!.observe(h));
 
-    return () => observerRef.current?.disconnect();
+    return () => {
+      window.cancelAnimationFrame(entriesFrame);
+      observerRef.current?.disconnect();
+    };
   }, []);
 
   if (entries.length < 3) return null;
 
   return (
     <nav className="blog-toc" aria-label="Table of contents">
-      <span className="blog-toc-title">In this article</span>
-      <ol className="blog-toc-list">
-        {entries.map(entry => (
-          <li
-            key={entry.id}
-            className={`blog-toc-item blog-toc-level-${entry.level}${activeId === entry.id ? ' active' : ''}`}
-          >
-            <a
-              href={`#${entry.id}`}
-              onClick={e => {
-                e.preventDefault();
-                document.getElementById(entry.id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-              }}
+      <button
+        type="button"
+        className="blog-toc-toggle"
+        aria-expanded={isOpen}
+        aria-controls="blog-toc-list"
+        onClick={() => setIsOpen(open => !open)}
+      >
+        <span>
+          <span className="blog-toc-kicker">In this article</span>
+          <span className="blog-toc-title">Table of Contents</span>
+        </span>
+        <svg
+          className="blog-toc-toggle-icon"
+          viewBox="0 0 20 20"
+          aria-hidden="true"
+        >
+          <path d="M5 7.5L10 12.5L15 7.5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+        </svg>
+      </button>
+
+      {isOpen && (
+        <ol id="blog-toc-list" className="blog-toc-list">
+          {entries.map(entry => (
+            <li
+              key={entry.id}
+              className={`blog-toc-item${activeId === entry.id ? ' active' : ''}`}
             >
-              {entry.text}
-            </a>
-          </li>
-        ))}
-      </ol>
+              <a
+                href={`#${entry.id}`}
+                onClick={e => {
+                  e.preventDefault();
+                  scrollToHeading(entry.id);
+                  setIsOpen(false);
+                }}
+              >
+                {entry.text}
+              </a>
+            </li>
+          ))}
+        </ol>
+      )}
     </nav>
   );
 }
