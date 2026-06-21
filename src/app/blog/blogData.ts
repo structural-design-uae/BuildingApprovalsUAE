@@ -20,6 +20,8 @@ export interface BlogPost {
   ogImage?: string;
   faqs?: FaqItem[];
   source?: 'local' | 'wordpress';
+  /** When set, this post's canonical URL points to the primary post with this slug */
+  canonicalSlug?: string;
 }
 
 export const blogPosts: BlogPost[] = [
@@ -207,6 +209,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: "Dubai Municipality approvals compliance guide for owners, developers & businesses: understand approvals, process steps, and avoid costly Dubai delays. Contact",
     keywords: ["Dubai", "Municipality", "(DM)", "Services", "Categories:", "Complete", "Guide", "Approvals", "Compliance", "Dubai", "(2026)"],
     ogImage: "https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dubai-municipality-services-ca-cover-1768976989112.jpg",
+    canonicalSlug: 'dubai-municipality-approval-step-by-step-guide',
   },
 
   {
@@ -241,6 +244,7 @@ export const blogPosts: BlogPost[] = [
     metaDescription: "Dubai municipality approvals confirm that fitout approvals must meet building codes, safety rules, environmental standards, and zoning requirements in Dubai.",
     keywords: ["Dubai", "Municipality", "Approval", "(DM)", "2026", "Complete", "Guide", "Construction", "Fit-Out", "Engineering", "Projects", "Dubai"],
     ogImage: "https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dubai-municipality-cover-1769065838329.jpg",
+    canonicalSlug: 'dubai-municipality-approval-step-by-step-guide',
   },
 
   {

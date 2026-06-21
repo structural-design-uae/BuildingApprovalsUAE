@@ -33,13 +33,13 @@ export default function BlogContent() {
 <h3>9. Bishop Design</h3>
 <p><a href="https://wearebishopdesign.com/" target="_blank" rel="noopener noreferrer">Bishop Design</a> is best known for award-winning hospitality, commercial, retail, and restaurant environments. While design-led, its strong Dubai presence and portfolio depth make it a notable name for premium concept-driven fit-out projects.</p>
 <h3>10. Fermium Designs</h3>
-<p><a href="https://fermiumdesigns.ae/" target="_blank" rel="noopener noreferrer">Fermium Designs</a> earns a place on this list as a practical option for clients who need both execution support and <a href="https://www.buildingapprovals.ae/services" target="_blank" rel="noopener noreferrer">approvals</a> coordination. The company positions itself around fitout, engineering solutions, and authority approvals in <a href="https://maps.app.goo.gl/MALr282McycsgCyk9" target="_blank" rel="noopener noreferrer">Dubai</a>, and publicly highlights support across 21+ authorities with a 98% first-pass rate and 500+ permits processed. This makes it particularly relevant for projects where approval handling is just as important as site work, such as office upgrades, restaurant fitout, villa renovation, warehouse modification, and false ceiling changes.</p>
+<p><a href="https://fermiumdesigns.ae/" target="_blank" rel="noopener noreferrer">Fermium Designs</a> earns a place on this list as a practical option for clients who need both execution support and <a href="https://buildingapprovals.ae/services" target="_blank" rel="noopener noreferrer">approvals</a> coordination. The company positions itself around fitout, engineering solutions, and authority approvals in <a href="https://maps.app.goo.gl/MALr282McycsgCyk9" target="_blank" rel="noopener noreferrer">Dubai</a>, and publicly highlights support across 21+ authorities with a 98% first-pass rate and 500+ permits processed. This makes it particularly relevant for projects where approval handling is just as important as site work, such as office upgrades, restaurant fitout, villa renovation, warehouse modification, and false ceiling changes.</p>
 <h2>How to Choose the Right Fit-Out Company</h2>
 <p>Do not select only by price. In Dubai, a cheaper quote can become expensive if drawings are rejected, approvals are delayed, or site changes trigger rework.</p>
 <h3>Choose a company based on:</h3>
 <ul>
 <li>Similar project experience</li>
-<li><a href="https://www.buildingapprovals.ae/services" target="_blank" rel="noopener noreferrer"> Approvals</a> knowledge for your zone or authority</li>
+<li><a href="https://buildingapprovals.ae/services" target="_blank" rel="noopener noreferrer"> Approvals</a> knowledge for your zone or authority</li>
 <li>MEP and joinery capability</li>
 <li>Project timeline realism</li>
 <li>Material and finishing standards</li>
@@ -50,7 +50,7 @@ export default function BlogContent() {
 <li><strong>Office Fitout:</strong> prioritize planning, MEP coordination, and authority submissions</li>
 <li><strong>Restaurant fitout:</strong> prioritize kitchen compliance, ventilation, and food-related approvals</li>
 <li><strong>Villa Fitout:</strong> prioritize custom detailing and modification accuracy</li>
-<li><strong>Warehouse modification:</strong> prioritize safety, structure, and <a href="https://www.buildingapprovals.ae/services" target="_blank" rel="noopener noreferrer">authority</a> scope clarity</li>
+<li><strong>Warehouse modification:</strong> prioritize safety, structure, and <a href="https://buildingapprovals.ae/services" target="_blank" rel="noopener noreferrer">authority</a> scope clarity</li>
 </ul>
 
       <div className="cta-box">

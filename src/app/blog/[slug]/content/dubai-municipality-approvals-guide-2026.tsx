@@ -5,7 +5,7 @@ export default function BlogContent() {
 
       <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">Dubai Municipality</a> plays an important role in regulating construction, renovation, fitout, food safety, public health, waste management, land services, and many other essential services in Dubai. For property owners, facility management companies, fitout contractors, and interior designers, understanding how the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">Dubai Municipality</a> works can help avoid approval delays, penalties, and project interruptions.</p>
 
-      <p>Whether you are planning a shop fitout, villa renovation, warehouse modification, restaurant setup, or building-related work, you may need to deal with <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">DM municipality</a> services, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM approval</a> requirements, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildindubai.gov.ae/">BPS Dubai</a> submissions, inspections, and document verification.</p>
+      <p>Whether you are planning a shop fitout, villa renovation, warehouse modification, restaurant setup, or building-related work, you may need to deal with <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">DM municipality</a> services, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM approval</a> requirements, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildindubai.gov.ae/">BPS Dubai</a> submissions, inspections, and document verification.</p>
 
       <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">Dubai Municipality’s</a> official website provides access to service categories such as Building, Construction &amp; Land; Food and Consumer Products; Training &amp; Accreditation; and Waste and Pest Control. It also includes Quick Pay, Track Requests, and Verify Documents options for users.</p>
 
@@ -47,9 +47,9 @@ export default function BlogContent() {
 
       <h2>Why is Dubai Municipality approval important?</h2>
 
-      <p>Dubai Municipality <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">approval</a> is important because it confirms that your proposed work follows Dubai’s technical, safety, planning, and building requirements. Without the correct approval, a project may face rejection, penalties, rework, inspection failure, or delays in handover.</p>
+      <p>Dubai Municipality <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">approval</a> is important because it confirms that your proposed work follows Dubai’s technical, safety, planning, and building requirements. Without the correct approval, a project may face rejection, penalties, rework, inspection failure, or delays in handover.</p>
 
-      <p>For fitout companies and interior designers, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM approval</a> helps ensure that drawings, layouts, structural changes, MEP works, and site execution match approved standards. For property owners and facility managers, it protects the asset from unauthorized modifications and future compliance issues.</p>
+      <p>For fitout companies and interior designers, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM approval</a> helps ensure that drawings, layouts, structural changes, MEP works, and site execution match approved standards. For property owners and facility managers, it protects the asset from unauthorized modifications and future compliance issues.</p>
 
       <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">Dubai Municipality</a> approval is required for many construction, renovation, fitout, and modification works in Dubai. It helps confirm that the project follows approved building rules, safety standards, land-use requirements, and technical guidelines before work begins.</p>
 
@@ -120,17 +120,17 @@ export default function BlogContent() {
         <li>Change of use</li>
       </ul>
 
-      <p>A clear scope helps decide whether you need <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM approval</a>, Dubai Civil Defence approval, developer NOC, DEWA approval, or other <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">authority approvals</a>.</p>
+      <p>A clear scope helps decide whether you need <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM approval</a>, Dubai Civil Defence approval, developer NOC, DEWA approval, or other <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">authority approvals</a>.</p>
 
       <h3>Step 2: Check the property jurisdiction</h3>
 
-      <p>Not every area in Dubai follows the same approval route. Some areas fall under the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">Dubai Municipality</a>, while others may involve Trakhees, the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">Dubai Development Authority,</a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dso">Dubai Silicon Oasis</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/jafza">JAFZA</a>, or other free zone/developer authorities.</p>
+      <p>Not every area in Dubai follows the same approval route. Some areas fall under the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/index.html#">Dubai Municipality</a>, while others may involve Trakhees, the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">Dubai Development Authority,</a> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dso">Dubai Silicon Oasis</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/jafza">JAFZA</a>, or other free zone/developer authorities.</p>
 
-      <p>For example, a commercial unit in <a target="_blank" rel="noopener noreferrer nofollow" href="https://maps.app.goo.gl/qVavUwDoy6JHGtxx5">Deira</a> may follow a different route than a unit in <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/jafza">JAFZA</a>, Dubai Marina, or Dubai South.</p>
+      <p>For example, a commercial unit in <a target="_blank" rel="noopener noreferrer nofollow" href="https://maps.app.goo.gl/qVavUwDoy6JHGtxx5">Deira</a> may follow a different route than a unit in <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/jafza">JAFZA</a>, Dubai Marina, or Dubai South.</p>
 
       <h3>Step 3: Prepare drawings and documents</h3>
 
-      <p>Drawings must usually be prepared according to the required standards. Poorly prepared drawings are one of the most common reasons for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM approval</a> delays.</p>
+      <p>Drawings must usually be prepared according to the required standards. Poorly prepared drawings are one of the most common reasons for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM approval</a> delays.</p>
 
       <p>Common drawings may include:</p>
 
@@ -180,7 +180,7 @@ export default function BlogContent() {
       <p>Depending on the project, final inspection, completion certificate, or closure approval may be required before handover or business operation.</p>
 
       <blockquote>
-        <p><strong>Must know:</strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/how-to-get-fitout-approvals-in-dubai">How to get Fitout Approvals in Dubai: Step by Step Process</a></p>
+        <p><strong>Must know:</strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-get-fitout-approvals-in-dubai">How to get Fitout Approvals in Dubai: Step by Step Process</a></p>
       </blockquote>
 
       <h2>BPS Dubai and DM login explained</h2>
@@ -267,12 +267,12 @@ export default function BlogContent() {
         <li><strong>Follow approved drawings.</strong> Site execution should match the approved drawings. Changes during work may need revised approval.</li>
         <li><strong>Avoid unauthorized structural changes. </strong>Removing walls, cutting slabs, adding mezzanine floors, or changing structural elements usually requires special review.</li>
         <li><strong>Coordinate fire and life safety requirements.</strong> Projects involving offices, restaurants, warehouses, clinics, salons, and public-use spaces may also need Dubai Civil Defence coordination.</li>
-        <li><strong>Check landlord and developer requirements.</strong> Even if <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">Dubai Municipality approval</a> is required, the landlord or developer may also request NOC, drawings, deposits, or contractor approvals.</li>
+        <li><strong>Check landlord and developer requirements.</strong> Even if <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">Dubai Municipality approval</a> is required, the landlord or developer may also request NOC, drawings, deposits, or contractor approvals.</li>
         <li><strong>Respect building use and activity type.</strong> A unit approved for one use may not automatically be accepted for another activity. Change of use may need additional approval.</li>
       </ol>
 
       <blockquote>
-        <p>Must Know: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-approval-process-2026">Dubai Municipality (DM) Approval Process 2026: Step by Step</a></p>
+        <p>Must Know: <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-process-2026">Dubai Municipality (DM) Approval Process 2026: Step by Step</a></p>
       </blockquote>
 
       <h2>Fitout approval in Dubai: where Dubai Municipality fits in</h2>

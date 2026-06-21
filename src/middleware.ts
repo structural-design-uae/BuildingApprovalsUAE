@@ -1,9 +1,15 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
+import { blogSlugRedirects } from '@/lib/blogSlugRedirects';
 
 export function middleware(request: NextRequest) {
-  const host = request.headers.get('host');
-  const path = request.nextUrl.pathname;
+  const host = request.headers.get('host') ?? '';
+  const path = request.nextUrl.pathname.replace(/\/$/, '') || '/';
+
+  const pageRedirects: Record<string, string> = {
+    '/about-us': '/about',
+    '/contact-us': '/contact',
+  };
 
   const serviceRedirects: Record<string, string> = {
     '/services/civil-defense': '/services/civil-defence-approvals-dubai',
@@ -34,18 +40,34 @@ export function middleware(request: NextRequest) {
     '/services/concordia': '/services/concordia-approvals-dubai',
   };
 
-  const canonicalPath = serviceRedirects[path] ?? path;
+  const canonicalPath =
+    pageRedirects[path] ?? serviceRedirects[path] ?? path;
 
-  // Redirect the real www domain to the non-www canonical host. Do not rewrite Hostinger
-  // preview domains or internal health-check hosts.
-  if (host === 'www.buildingapprovals.ae' || host === 'www.buildingapprovals.ae:3000') {
-    const redirectUrl = new URL(canonicalPath + request.nextUrl.search, 'https://buildingapprovals.ae');
-    return NextResponse.redirect(redirectUrl, 301); // 301 = Permanent redirect
+  // Legacy blog slug redirects (old URLs → current canonical slugs)
+  if (path.startsWith('/blog/')) {
+    const legacySlug = path.slice('/blog/'.length);
+    const newSlug = blogSlugRedirects[legacySlug];
+    if (newSlug) {
+      const redirectUrl = new URL(`/blog/${newSlug}` + request.nextUrl.search, 'https://buildingapprovals.ae');
+      return NextResponse.redirect(redirectUrl, 301);
+    }
   }
 
-  if (serviceRedirects[path]) {
-    const redirectUrl = new URL(serviceRedirects[path] + request.nextUrl.search, 'https://buildingapprovals.ae');
-    return NextResponse.redirect(redirectUrl, 301); // 301 = Permanent redirect
+  // Redirect www to non-www canonical host (all paths). Do not rewrite Hostinger
+  // preview domains or internal health-check hosts.
+  const isWwwHost =
+    host === 'www.buildingapprovals.ae' ||
+    host === 'www.buildingapprovals.ae:3000' ||
+    host.startsWith('www.buildingapprovals.ae:');
+
+  if (isWwwHost) {
+    const redirectUrl = new URL(canonicalPath + request.nextUrl.search, 'https://buildingapprovals.ae');
+    return NextResponse.redirect(redirectUrl, 301);
+  }
+
+  if (pageRedirects[path] || serviceRedirects[path]) {
+    const redirectUrl = new URL(canonicalPath + request.nextUrl.search, 'https://buildingapprovals.ae');
+    return NextResponse.redirect(redirectUrl, 301);
   }
 
   return NextResponse.next();

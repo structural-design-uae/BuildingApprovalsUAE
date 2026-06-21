@@ -1,13 +1,13 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p>If your project is located in a free zone or master-planned area regulated by the <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">Dubai Development Authority</a>, even a small documentation error can delay approvals for weeks. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">DDA Approval</a> is not just another permit it&apos;s a mandatory compliance step that ensures your design, fit-out, or construction aligns with Dubai&apos;s planning, safety, and sustainability standards.</p>
+      <p>If your project is located in a free zone or master-planned area regulated by the <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">Dubai Development Authority</a>, even a small documentation error can delay approvals for weeks. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">DDA Approval</a> is not just another permit it&apos;s a mandatory compliance step that ensures your design, fit-out, or construction aligns with Dubai&apos;s planning, safety, and sustainability standards.</p>
 
-      <p>This guide explains what <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">DDA Approval</a> is, who needs it, the documents required, approval types, covered areas, and a step-by-step process so you can move forward confidently in Dubai, UAE.</p>
+      <p>This guide explains what <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">DDA Approval</a> is, who needs it, the documents required, approval types, covered areas, and a step-by-step process so you can move forward confidently in Dubai, UAE.</p>
 
       <h2>What Is DDA Approval?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">DDA Approval</a> is the official authorization issued by the <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">Dubai Development Authority</a> for projects within its jurisdiction. It confirms that your proposal meets urban planning, architectural, MEP, fire safety, and environmental regulations specific to DDA-controlled zones.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">DDA Approval</a> is the official authorization issued by the <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">Dubai Development Authority</a> for projects within its jurisdiction. It confirms that your proposal meets urban planning, architectural, MEP, fire safety, and environmental regulations specific to DDA-controlled zones.</p>
 
       <h2>Who typically needs it?</h2>
 
@@ -19,7 +19,7 @@ export default function BlogContent() {
 
       <h2>Why DDA Approval Is Mandatory?</h2>
 
-      <p>In Dubai, each authority governs specific districts. For DDA areas, no construction or fit-out can begin without DDA clearance, often alongside <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">approvals</a> from other bodies like <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Civil Defence</a> or utility providers. Skipping or misunderstanding DDA requirements is a common cause of project delays and redesign costs.</p>
+      <p>In Dubai, each authority governs specific districts. For DDA areas, no construction or fit-out can begin without DDA clearance, often alongside <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">approvals</a> from other bodies like <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Civil Defence</a> or utility providers. Skipping or misunderstanding DDA requirements is a common cause of project delays and redesign costs.</p>
 
       <h2>Areas Covered Under DDA Approval</h2>
 
@@ -33,7 +33,7 @@ export default function BlogContent() {
         <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://dpc.ae/">Dubai Production City (DPC)</a></li>
       </ul>
 
-      <h3>If your plot or unit falls within these zones, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">DDA Approval</a> is compulsory before any work starts.</h3>
+      <h3>If your plot or unit falls within these zones, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">DDA Approval</a> is compulsory before any work starts.</h3>
 
       <h2>Types of DDA Approval (Based on Project Scope)</h2>
 
@@ -71,7 +71,7 @@ export default function BlogContent() {
 
       <h3>Common mistake: Submitting drawings that don&apos;t align with DDA drafting standards—this often leads to rejection.</h3>
 
-      <h3><em>Also Read: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>https://www.buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval</em></a></h3>
+      <h3><em>Also Read: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval</em></a></h3>
 
       <h2>Step-by-Step Process to Get DDA Approval in Dubai</h2>
 
@@ -97,7 +97,7 @@ export default function BlogContent() {
 
       <h3>Step 6: Approval Issued</h3>
 
-      <p>Once cleared, you&apos;ll receive official <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">DDA Approval</a> to proceed.</p>
+      <p>Once cleared, you&apos;ll receive official <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">DDA Approval</a> to proceed.</p>
 
       <figure className="blog-image-figure">
         <img src="https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dda-approval-content-1-1768990426786.jpeg" alt="Building Approvals Dubai - How to get Dubai Development Authority (DDA) Approval in Dubai 2026" />
@@ -115,7 +115,7 @@ export default function BlogContent() {
       <h2>Best Practices to Get Faster DDA Approval (EEAT)</h2>
 
       <ul>
-        <li>Work with Dubai-experienced <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/">approval consultants</a></li>
+        <li>Work with Dubai-experienced <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/">approval consultants</a></li>
         <li>Follow the latest DDA guidelines (updated regularly)</li>
         <li>Submit complete, coordinated drawings (Arch + MEP + Fire)</li>
         <li>Respond quickly to authority comments</li>
@@ -151,12 +151,12 @@ export default function BlogContent() {
 
       <h3>5. Can one consultant handle all approvals?</h3>
 
-      <p>Yes, experienced consultants can manage <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">DDA</a> plus Civil Defence and other linked <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals.</a></p>
+      <p>Yes, experienced consultants can manage <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">DDA</a> plus Civil Defence and other linked <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals.</a></p>
 
       <h2>Key Takeaways</h2>
 
       <ul>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dda">DDA Approval</a> is mandatory for projects in DDA-regulated zones in Dubai</li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dda">DDA Approval</a> is mandatory for projects in DDA-regulated zones in Dubai</li>
         <li>Approval types vary by project scope (design, fit-out, completion)</li>
         <li>Correct documentation and compliant drawings save time</li>
         <li>Expert handling reduces delays and rejections</li>
@@ -168,7 +168,7 @@ export default function BlogContent() {
 
       <ul>
         <li>Official portal for DDA approval: <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">https://dda.gov.ae/</a></li>
-        <li>Get in touch with us: <a target="_blank" rel="noopener noreferrer nofollow" href="https://<a href=">+971 589575610</a> to get specialist guidance now - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/contact">https://www.buildingapprovals.ae/contact</a></li>
+        <li>Get in touch with us: <a target="_blank" rel="noopener noreferrer nofollow" href="https://<a href=">+971 589575610</a> to get specialist guidance now - <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/contact">https://buildingapprovals.ae/contact</a></li>
       </ul>
 
       <div className="cta-box">

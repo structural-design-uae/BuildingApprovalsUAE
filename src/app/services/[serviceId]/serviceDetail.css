@@ -737,7 +737,52 @@
   }
 
   .benefits-grid,
-  .challenges-grid {
+  .challenges-grid,
+  .case-studies-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Case Studies */
+.case-studies-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.case-study-card {
+  background: var(--bg-white);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 28px;
+  box-shadow: var(--shadow-sm);
+}
+
+.case-study-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 12px;
+}
+
+.case-study-description {
+  font-size: 15px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0 0 12px;
+}
+
+.case-study-outcome {
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.6;
+  margin: 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--border-color);
+}
+
+@media (max-width: 767px) {
+  .case-studies-grid {
     grid-template-columns: 1fr;
   }
 }

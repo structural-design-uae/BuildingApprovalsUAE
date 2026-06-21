@@ -26,7 +26,7 @@ export default function BlogContent() {
 
       <h2>Why Fit-Out Approval Is Mandatory</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai authorities</a> focus heavily on safety, functionality, and sustainability. Fit-out approval ensures:</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai authorities</a> focus heavily on safety, functionality, and sustainability. Fit-out approval ensures:</p>
 
       <ul>
         <li>Fire and life safety compliance</li>
@@ -67,7 +67,7 @@ export default function BlogContent() {
       <h3>3. Building Management / Developer</h3>
 
       <ul>
-        <li>Mall, tower, or free zone <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">authority approval</a></li>
+        <li>Mall, tower, or free zone <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">authority approval</a></li>
         <li>Ensures fit-out aligns with building guidelines</li>
       </ul>
 
@@ -79,7 +79,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Must Read:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Must Read:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <figure className="blog-image-figure">
@@ -134,7 +134,7 @@ export default function BlogContent() {
       <ul>
         <li>Revise drawings as per feedback</li>
         <li>Clarify technical points</li>
-        <li>Resubmit for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a></li>
+        <li>Resubmit for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a></li>
       </ul>
 
       <p><strong>Note: </strong>Quick response here saves weeks of delay.</p>
@@ -150,7 +150,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><em><span>Keep Learning: </span></em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><em><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></em></a></p>
+        <p><strong><em><span>Keep Learning: </span></em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/villa-modification-approval-dubai"><em><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></em></a></p>
       </blockquote>
 
       <h3>Step 6: Site Inspections &amp; Completion Approval</h3>
@@ -158,7 +158,7 @@ export default function BlogContent() {
       <p><strong>After fit-out completion:</strong></p>
 
       <ul>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Authorities</a> conduct inspections</li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Authorities</a> conduct inspections</li>
         <li>Fire safety systems are tested</li>
         <li>Final approval or completion certificate is issued</li>
       </ul>
@@ -188,7 +188,7 @@ export default function BlogContent() {
       <h2>Common Mistakes That Delay Approval</h2>
 
       <ul>
-        <li>Starting work without <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">approval</a></li>
+        <li>Starting work without <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">approval</a></li>
         <li>Submitting non-compliant drawings</li>
         <li>Ignoring <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">DCD</a> fire safety requirements</li>
         <li>Using unapproved contractors</li>
@@ -210,9 +210,9 @@ export default function BlogContent() {
       <h3>Key Takeaways</h3>
 
       <ul>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">Fit-out approval</a> is mandatory for all interior works in Dubai</li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">Fit-out approval</a> is mandatory for all interior works in Dubai</li>
         <li>Multiple authorities may be involved, depending on location and use</li>
-        <li>Proper planning and compliant drawings are the key to fast <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a></li>
+        <li>Proper planning and compliant drawings are the key to fast <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a></li>
         <li>Starting work without approval can lead to serious penalties</li>
         <li>Professional guidance makes the process smoother and faster</li>
       </ul>
@@ -221,7 +221,7 @@ export default function BlogContent() {
 
       <ul>
         <li>Official portal for DM approval: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">https://www.dm.gov.ae/</a></li>
-        <li>Get in touch with us: <a target="_blank" rel="noopener noreferrer nofollow" href="https://">+971 589575610 </a>to get specialist guidance now - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/contact">https://www.buildingapprovals.ae/contact</a></li>
+        <li>Get in touch with us: <a target="_blank" rel="noopener noreferrer nofollow" href="https://">+971 589575610 </a>to get specialist guidance now - <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/contact">https://buildingapprovals.ae/contact</a></li>
       </ul>
 
       <div className="cta-box">

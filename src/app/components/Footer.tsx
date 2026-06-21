@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css';
+import { footerServiceCategories } from '@/lib/footerServices';
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -7,9 +8,7 @@ const Footer: React.FC = () => {
   return (
     <footer className="footer">
       <div className="footer-container">
-        {/* Main Footer Content */}
         <div className="footer-content">
-          {/* Company Info */}
           <div className="footer-column footer-brand">
             <a href="/" className="footer-logo">
               <img src="/images/Building Approvals OG Logo.png" alt="Building Approvals Dubai logo" />
@@ -39,7 +38,6 @@ const Footer: React.FC = () => {
             </div>
           </div>
 
-          {/* Quick Links */}
           <div className="footer-column">
             <h3 className="footer-title">Quick Links</h3>
             <ul className="footer-links">
@@ -51,19 +49,19 @@ const Footer: React.FC = () => {
             </ul>
           </div>
 
-          {/* Services */}
-          <div className="footer-column">
-            <h3 className="footer-title">Our Services</h3>
-            <ul className="footer-links">
-              <li><a href="/services/civil-defense">Civil Defense Approvals</a></li>
-              <li><a href="/services/dewa">DEWA Approval</a></li>
-              <li><a href="/services/dubai-municipality">Dubai Municipality</a></li>
-              <li><a href="/services/emaar">Emaar Approval</a></li>
-              <li><a href="/services/nakheel">Nakheel Approval</a></li>
-            </ul>
-          </div>
+          {footerServiceCategories.map((category) => (
+            <div key={category.title} className="footer-column footer-services-column">
+              <h3 className="footer-title">{category.title}</h3>
+              <ul className="footer-links">
+                {category.links.map((link) => (
+                  <li key={link.href}>
+                    <a href={link.href}>{link.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
 
-          {/* Contact Info */}
           <div className="footer-column">
             <h3 className="footer-title">Get In Touch</h3>
             <ul className="footer-contact">
@@ -91,7 +89,6 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        {/* Footer Bottom */}
         <div className="footer-bottom">
           <div className="footer-bottom-content">
             <p className="footer-copyright">

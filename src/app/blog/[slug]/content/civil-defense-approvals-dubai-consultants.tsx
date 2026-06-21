@@ -1,15 +1,15 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p>Getting <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/civil-defense">DCD Approval</a> in Dubai is one of the most critical and often most confusing steps in any construction, fit-out, or renovation project. Business owners, homeowners, and developers usually face unexpected rejections, repeated comments, and costly delays due to incorrect interpretation of fire and life safety requirements.</p>
+      <p>Getting <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/civil-defense">DCD Approval</a> in Dubai is one of the most critical and often most confusing steps in any construction, fit-out, or renovation project. Business owners, homeowners, and developers usually face unexpected rejections, repeated comments, and costly delays due to incorrect interpretation of fire and life safety requirements.</p>
 
-      <p><a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/civil-defense">Dubai Civil Defence approval</a> is not just another formality. It is a mandatory legal requirement under UAE regulations, and even a small technical mistake can halt your entire project.</p>
+      <p><a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/civil-defense">Dubai Civil Defence approval</a> is not just another formality. It is a mandatory legal requirement under UAE regulations, and even a small technical mistake can halt your entire project.</p>
 
-      <p>This guide explains why hiring a professional consultant for <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/civil-defense">Dubai Civil Defence approval</a> in Dubai is not an expense, but a smart investment, especially if you want faster approvals, zero rejections, and full compliance from day one.</p>
+      <p>This guide explains why hiring a professional consultant for <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/civil-defense">Dubai Civil Defence approval</a> in Dubai is not an expense, but a smart investment, especially if you want faster approvals, zero rejections, and full compliance from day one.</p>
 
       <h2>What Is DCD Approval in Dubai?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/civil-defense">DCD Approval</a> refers to the official fire and life safety clearance issued by <a target="_blank" rel="noopener noreferrer" href="https://www.dcd.gov.ae/portal/#">Dubai Civil Defence</a>.</p>
+      <p><a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/civil-defense">DCD Approval</a> refers to the official fire and life safety clearance issued by <a target="_blank" rel="noopener noreferrer" href="https://www.dcd.gov.ae/portal/#">Dubai Civil Defence</a>.</p>
 
       <p>It ensures that your building, office, shop, warehouse, villa, or industrial facility complies with all fire protection, evacuation, and emergency safety standards required in Dubai.</p>
 
@@ -38,7 +38,7 @@ export default function BlogContent() {
         <li>Reduced risk of legal penalties and shutdowns</li>
       </ul>
 
-      <p><strong>Important:</strong> Operating a space without valid <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> can lead to fines, closure notices, or rejection from other authorities like <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/dubai-municipality">Dubai Municipality.</a></p>
+      <p><strong>Important:</strong> Operating a space without valid <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> can lead to fines, closure notices, or rejection from other authorities like <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/dubai-municipality">Dubai Municipality.</a></p>
 
       <h2>Why Hire a Consultant for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence</a> Approval in Dubai?</h2>
 
@@ -154,7 +154,7 @@ export default function BlogContent() {
       <p>Missing even one document can delay approval.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dcd-approval-dubai-complete-process"><span>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dcd-approval-dubai-complete-process"><span>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</span></a></p>
       </blockquote>
 
       <h2><strong>Common Reasons for </strong><a target="_blank" rel="noopener noreferrer" href="https://www.dcd.gov.ae/portal/#"><strong>DCD Approval</strong></a><strong> Rejections</strong></h2>
@@ -178,10 +178,10 @@ export default function BlogContent() {
 
       <ul>
         <li>Involve a consultant before final design finalization</li>
-        <li>Use only <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD</a>-approved materials</li>
+        <li>Use only <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD</a>-approved materials</li>
         <li>Follow the latest UAE Fire &amp; Life Safety Code</li>
         <li>Ensure coordination with fit-out contractors</li>
-        <li>Respond quickly and professionally to <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD</a> comments</li>
+        <li>Respond quickly and professionally to <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD</a> comments</li>
       </ul>
 
       <h2>Who Should Hire a DCD Approval Consultant?</h2>
@@ -197,7 +197,7 @@ export default function BlogContent() {
       <p>If your project involves people, electricity, or enclosed spaces, you need expert guidance.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/how-to-secure-a-nakheel-noc-in-dubai-2026"><span>How to Secure a Nakheel NOC in Dubai 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-secure-a-nakheel-noc-in-dubai-2026"><span>How to Secure a Nakheel NOC in Dubai 2026</span></a></p>
       </blockquote>
 
       <h2>Frequently Asked Questions (FAQs)</h2>
@@ -208,7 +208,7 @@ export default function BlogContent() {
 
       <h3>2. How long does Dubai Civil Defence approval take?</h3>
 
-      <p>With a consultant, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a> typically take 7–15 working days, depending on project complexity.</p>
+      <p>With a consultant, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals</a> typically take 7–15 working days, depending on project complexity.</p>
 
       <h3>3. Can I apply for DCD approval myself?</h3>
 
@@ -220,7 +220,7 @@ export default function BlogContent() {
 
       <h3>5. Does DCD approval expire?</h3>
 
-      <p>Yes. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Approvals</a> are project-specific and may expire if construction timelines are exceeded.</p>
+      <p>Yes. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Approvals</a> are project-specific and may expire if construction timelines are exceeded.</p>
 
       <h2>Key Takeaways: Why a Consultant Is Essential</h2>
 
@@ -240,7 +240,7 @@ export default function BlogContent() {
 
       <ul>
         <li>Official portal for DCD approval: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">https://www.dcd.gov.ae/portal/</a></li>
-        <li>For expert assistance and guidance: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/contact">https://www.buildingapprovals.ae/contact</a></li>
+        <li>For expert assistance and guidance: <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/contact">https://buildingapprovals.ae/contact</a></li>
         <li>Get in touch with us: <strong>+971 589575610</strong> to get specialist guidance now</li>
       </ul>
 

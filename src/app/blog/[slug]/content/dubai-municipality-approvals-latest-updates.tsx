@@ -1,7 +1,7 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://dm.gov.ae/">Dubai Municipality</a> has introduced groundbreaking changes in 2026, leveraging artificial intelligence, digital twin technology, and enhanced online platforms to revolutionize <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/"><strong>building approvals</strong></a><strong> in Dubai</strong>. These innovations streamline processes, improve compliance accuracy, and align with Dubai&apos;s smart city vision.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://dm.gov.ae/">Dubai Municipality</a> has introduced groundbreaking changes in 2026, leveraging artificial intelligence, digital twin technology, and enhanced online platforms to revolutionize <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/"><strong>building approvals</strong></a><strong> in Dubai</strong>. These innovations streamline processes, improve compliance accuracy, and align with Dubai&apos;s smart city vision.</p>
 
       <p>This comprehensive guide explores the latest updates to <a target="_blank" rel="noopener noreferrer nofollow" href="https://dm.gov.ae/"><strong>Dubai Municipality</strong></a><strong> approval 2026</strong> systems, including new regulations, digital innovations, and what these changes mean for developers, consultants, and property owners.</p>
 
@@ -17,26 +17,26 @@ export default function BlogContent() {
         <li>Centralized platform for all permit-related activities</li>
       </ul>
 
-      <p>These digital enhancements ensure faster processing times and greater efficiency across all project types seeking <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/"><strong>building approvals</strong></a><strong> in Dubai</strong>.</p>
+      <p>These digital enhancements ensure faster processing times and greater efficiency across all project types seeking <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/"><strong>building approvals</strong></a><strong> in Dubai</strong>.</p>
 
       <h2>2. AI-Driven Compliance &amp; Smart Checks</h2>
 
-      <p>Artificial Intelligence plays a transformative role in <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality"><strong>Dubai Municipality approval</strong></a><strong> processes in 2026</strong>. AI-powered systems bring unprecedented accuracy to the review process:</p>
+      <p>Artificial Intelligence plays a transformative role in <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality"><strong>Dubai Municipality approval</strong></a><strong> processes in 2026</strong>. AI-powered systems bring unprecedented accuracy to the review process:</p>
 
       <ul>
         <li>Automatic review of drawings and documents for compliance issues</li>
         <li>Detection of non-compliance with zoning rules and building codes</li>
         <li>Verification of setbacks, height limits, and coverage requirements</li>
         <li>Early identification of issues before submission</li>
-        <li>Increased first-submission <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> success rates</li>
+        <li>Increased first-submission <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> success rates</li>
         <li>Consistent application of regulations across all projects</li>
       </ul>
 
-      <p><strong>Pro Tip:</strong> Use AI pre-checks to validate your drawings before submission to significantly reduce revision cycles and <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> times.</p>
+      <p><strong>Pro Tip:</strong> Use AI pre-checks to validate your drawings before submission to significantly reduce revision cycles and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> times.</p>
 
       <h2>3. Digital Twin &amp; Smart City Integration</h2>
 
-      <p>Dubai&apos;s <strong>Digital Twin</strong> technology represents a major leap forward in urban planning and <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">building approvals</a>. This innovation enables:</p>
+      <p>Dubai&apos;s <strong>Digital Twin</strong> technology represents a major leap forward in urban planning and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">building approvals</a>. This innovation enables:</p>
 
       <ul>
         <li>3D visualization of projects within Dubai&apos;s complete city model</li>
@@ -47,14 +47,14 @@ export default function BlogContent() {
         <li>Better coordination between new projects and existing developments</li>
       </ul>
 
-      <p>This technology ensures that <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>building approvals</strong></a><strong> in Dubai</strong> align perfectly with the city&apos;s vision for sustainable, intelligent urban development.</p>
+      <p>This technology ensures that <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>building approvals</strong></a><strong> in Dubai</strong> align perfectly with the city&apos;s vision for sustainable, intelligent urban development.</p>
 
       <figure className="blog-image-figure">
         <img src="/images/blog/building-approvals-dubai-municipality-approvals-updated-rules-content.jpg" alt="Building Approvals Dubai - Dubai Municipality Approvals 2026 Updated Rules &amp; Digital Innovations" />
       </figure>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-services-complete-guide-for-residents"><span>Dubai Municipality Services: Complete Guide for Residents</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-services-complete-guide-for-residents"><span>Dubai Municipality Services: Complete Guide for Residents</span></a></p>
       </blockquote>
 
       <h2>4. Real-Time Tracking &amp; Approval Transparency</h2>
@@ -85,7 +85,7 @@ export default function BlogContent() {
 
       <p><strong>Tip:</strong> Stay updated on the latest code changes to ensure your projects meet all current requirements from the start.</p>
 
-      <p>Strict adherence to these updated regulations is mandatory for smooth <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>building approvals</strong></a><strong> in Dubai</strong>.</p>
+      <p>Strict adherence to these updated regulations is mandatory for smooth <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>building approvals</strong></a><strong> in Dubai</strong>.</p>
 
       <h2>6. Sustainability &amp; Green Building Requirements</h2>
 
@@ -100,10 +100,10 @@ export default function BlogContent() {
         <li>Renewable energy integration, where applicable</li>
       </ul>
 
-      <p>Digital systems help evaluate sustainability compliance early in the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> process, making it easier to identify and address green building requirements before submission.</p>
+      <p>Digital systems help evaluate sustainability compliance early in the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> process, making it easier to identify and address green building requirements before submission.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></a></p>
       </blockquote>
 
       <h2>7. Multi-Department Digital Coordination</h2>
@@ -119,7 +119,7 @@ export default function BlogContent() {
         <li>Single-point tracking for all departmental reviews</li>
       </ul>
 
-      <p>This streamlined coordination ensures faster, more efficient <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>building approvals</strong></a><strong> in Dubai</strong> with better communication across all stakeholders.</p>
+      <p>This streamlined coordination ensures faster, more efficient <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>building approvals</strong></a><strong> in Dubai</strong> with better communication across all stakeholders.</p>
 
       <figure className="blog-image-figure">
         <img src="https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dubai-municipality-content-1-1770374721579.jpeg" alt="Building Approvals Dubai - Dubai Municipality Approvals (DM) 2026: Updated Rules &amp; Digital Innovations" />
@@ -132,7 +132,7 @@ export default function BlogContent() {
       <ul>
         <li><strong>Speed:</strong> Significantly faster processing through automation and AI</li>
         <li><strong>Accuracy:</strong> Fewer errors and rejections due to smart compliance checks</li>
-        <li><strong>Transparency:</strong> Complete visibility into <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> status and requirements</li>
+        <li><strong>Transparency:</strong> Complete visibility into <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> status and requirements</li>
         <li><strong>Sustainability:</strong> Stronger focus on environmental responsibility</li>
         <li><strong>Innovation:</strong> Cutting-edge technology integration for smarter approvals</li>
         <li><strong>Efficiency:</strong> Streamlined coordination, reducing delays and confusion</li>

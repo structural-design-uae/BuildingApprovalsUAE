@@ -12,6 +12,11 @@ interface ServiceDetailData {
   subtitle: string;
   icon: React.ReactNode;
   overview: string;
+  caseStudies?: Array<{
+    title: string;
+    description: string;
+    outcome: string;
+  }>;
   whyImportant: {
     title: string;
     description: string;
@@ -143,6 +148,18 @@ const servicesData: Record<string, ServiceDetailData> = {
       ]
     },
     timeline: 'Typical approval timeline: 2-4 weeks for standard projects, depending on building complexity and documentation readiness.',
+    caseStudies: [
+      {
+        title: 'Restaurant fit-out in Business Bay',
+        description: 'A 180 sqm restaurant required DCD approval for kitchen exhaust, fire alarm, and emergency exit modifications before DM fit-out permit.',
+        outcome: 'Approved in 18 days after correcting fire-rated door specifications on first submission.',
+      },
+      {
+        title: 'Warehouse modification in Al Quoz',
+        description: 'Industrial tenant needed DCD clearance for new racking layout, sprinkler adjustments, and revised evacuation routes.',
+        outcome: 'Full NOC issued in 3 weeks with coordinated MEP and fire contractor resubmission.',
+      },
+    ],
     faqs: [
       {
         question: 'What types of buildings require Civil Defense approval?',
@@ -159,6 +176,14 @@ const servicesData: Record<string, ServiceDetailData> = {
       {
         question: 'Do I need separate Civil Defense approval for renovations?',
         answer: 'Yes, any renovation affecting fire safety systems, emergency exits, or building structure requires updated Civil Defense approval and NOC.'
+      },
+      {
+        question: 'What are the most common DCD rejection reasons?',
+        answer: 'Frequent rejections include incorrect fire alarm layouts, non-compliant exit widths, missing equipment test certificates, kitchen exhaust not meeting DCD specs, and drawings that do not match the approved DM permit scope.'
+      },
+      {
+        question: 'Where do I submit Civil Defense applications?',
+        answer: 'Applications are submitted through the Dubai Civil Defence Smart Services portal at smartservices.dcd.gov.ae. We handle portal registration, document upload, and authority follow-up on your behalf.'
       }
     ]
   },
@@ -252,6 +277,18 @@ const servicesData: Record<string, ServiceDetailData> = {
       ]
     },
     timeline: 'Standard DEWA approval: 1-3 weeks depending on project complexity and documentation completeness.',
+    caseStudies: [
+      {
+        title: 'Office fit-out in JLT',
+        description: 'Tenant required DEWA load assessment and new meter installation for a 350 sqm office with upgraded HVAC and server room.',
+        outcome: 'Electricity supply approval granted in 12 days with corrected load calculation submission.',
+      },
+      {
+        title: 'Villa pool and landscaping in Arabian Ranches',
+        description: 'Homeowner needed DEWA approvals for pool pump electrical supply and irrigation water connection.',
+        outcome: 'Both electric and water approvals completed in 2 weeks after site inspection clearance.',
+      },
+    ],
     faqs: [
       {
         question: 'What types of DEWA approvals are available?',
@@ -268,6 +305,14 @@ const servicesData: Record<string, ServiceDetailData> = {
       {
         question: 'What happens if my DEWA application is rejected?',
         answer: 'We identify the rejection reasons, rectify documentation or technical issues, and resubmit promptly to minimize delays.'
+      },
+      {
+        question: 'What causes DEWA application rejections?',
+        answer: 'Common reasons include incorrect load calculations, non-DEWA-approved contractor submissions, incomplete MEP drawings, missing DM building permit, and meter room not meeting DEWA access standards.'
+      },
+      {
+        question: 'Do I need DEWA approval before Civil Defense or DM?',
+        answer: 'DEWA approval is typically required after Dubai Municipality building permit and often alongside or after Civil Defense clearance, depending on project stage. We coordinate the correct sequence for your project.'
       }
     ]
   },
@@ -370,6 +415,18 @@ const servicesData: Record<string, ServiceDetailData> = {
       ]
     },
     timeline: 'Standard approval: 3-8 weeks for residential projects, 6-12 weeks for commercial developments, depending on project complexity.',
+    caseStudies: [
+      {
+        title: 'Retail shop fit-out in Deira',
+        description: 'A 95 sqm shop required DM fit-out approval with landlord NOC, Ejari, architectural layouts, and MEP drawings.',
+        outcome: 'Permit issued in 22 days after resolving a setback comment on signage placement.',
+      },
+      {
+        title: 'Villa extension in Mirdif',
+        description: 'Owner applied for DM approval to add a majlis room and enclose an existing terrace with structural modifications.',
+        outcome: 'Building permit approved in 6 weeks with coordinated structural engineer submission.',
+      },
+    ],
     faqs: [
       {
         question: 'What types of projects require Dubai Municipality approval?',
@@ -386,6 +443,14 @@ const servicesData: Record<string, ServiceDetailData> = {
       {
         question: 'What are the recent regulatory updates?',
         answer: 'Dubai Municipality has implemented electronic approval systems, mandatory sustainable building practices, energy efficiency standards, and stricter heritage preservation requirements for historically significant areas.'
+      },
+      {
+        question: 'What are the most common DM rejection reasons?',
+        answer: 'Frequent rejections include drawings not matching Ejari area, missing landlord NOC, incorrect trade license activity, non-compliant MEP layouts, unsigned consultant stamps, and scope mismatch between architectural and fit-out drawings.'
+      },
+      {
+        question: 'Where do I apply for Dubai Municipality permits?',
+        answer: 'Most building and fit-out permits are submitted through the Building Permit System (BPS) at bps.dm.gov.ae. We manage portal access, document upload, and comment resolution.'
       }
     ]
   },
@@ -1190,6 +1255,18 @@ const servicesData: Record<string, ServiceDetailData> = {
       ]
     },
     timeline: 'Standard approval: 6-10 weeks for development projects, varying based on project scale and complexity.',
+    caseStudies: [
+      {
+        title: 'Design studio fit-out in Dubai Design District (d3)',
+        description: 'Creative agency required DDA fit-out approval with landlord NOC, MEP drawings, and Civil Defence clearance for a 220 sqm office.',
+        outcome: 'Approved in 4 weeks with single-round comment resolution on fire exit routing.',
+      },
+      {
+        title: 'Restaurant in Dubai Waterfront',
+        description: 'F&B operator needed DDA approval for kitchen fit-out, grease trap installation, and outdoor seating modification.',
+        outcome: 'Full permit issued in 7 weeks after coordinated DM food control and DCD submissions.',
+      },
+    ],
     faqs: [
       {
         question: 'What areas fall under DDA jurisdiction?',
@@ -1202,6 +1279,14 @@ const servicesData: Record<string, ServiceDetailData> = {
       {
         question: 'What are DDA sustainability requirements?',
         answer: 'DDA requires environmental assessments, energy efficiency compliance, green building practices, waste management plans, and alignment with Dubai Clean Energy Strategy objectives.'
+      },
+      {
+        question: 'What causes DDA application rejections?',
+        answer: 'Common rejection reasons include incomplete environmental assessments, drawings not stamped by DDA-registered consultants, missing landlord NOC, scope exceeding leased area, and lack of coordinated Civil Defence or DEWA approvals.'
+      },
+      {
+        question: 'How long does a simple DDA fit-out permit take?',
+        answer: 'Straightforward fit-out permits with complete documentation typically take 5–15 working days. Complex structural or new construction projects require 15–30 working days or longer.'
       }
     ]
   },
@@ -2520,6 +2605,18 @@ const servicesData: Record<string, ServiceDetailData> = {
       ]
     },
     timeline: 'Standard villa modifications: 1-3 weeks; Large projects: 4-6 weeks depending on complexity; EHS certification: 2-4 weeks',
+    caseStudies: [
+      {
+        title: 'JAFZA warehouse fit-out',
+        description: 'Logistics company required Trakhees EHS certification and fit-out approval for racking, office partition, and fire system upgrades.',
+        outcome: 'EHS certificate and construction approval completed in 5 weeks with registered structural engineer submission.',
+      },
+      {
+        title: 'Maritime City office renovation',
+        description: 'Shipping firm needed Trakhees approval for MEP upgrades, new partitions, and Civil Defence NOC in a leased office unit.',
+        outcome: 'Full approval in 3 weeks after geotechnical waiver and corrected fire plan resubmission.',
+      },
+    ],
     faqs: [
       {
         question: 'What is EHS Trakhees Certification?',
@@ -2536,6 +2633,14 @@ const servicesData: Record<string, ServiceDetailData> = {
       {
         question: 'What technical standards must be met?',
         answer: 'Trakhees requires approved/registered structural engineers, architects, and consultants. Geotechnical reports (soil tests) must meet relevant international codes such as Eurocode or ACI. Structural design calculations must comply with these standards, and all MEP systems must meet Trakhees specifications. Fire safety plans require Civil Defence approval.'
+      },
+      {
+        question: 'What are common Trakhees rejection reasons?',
+        answer: 'Frequent rejections include unregistered consultants, incomplete EHS documentation, geotechnical reports not meeting code standards, MEP drawings missing Civil Defence NOC, and structural calculations not stamped by Trakhees-approved engineers.'
+      },
+      {
+        question: 'Is EHS certification required before construction?',
+        answer: 'Yes. EHS (Environment, Health & Safety) Trakhees certification is mandatory for operating and expanding in JAFZA, Dubai Maritime City, and other PCFC-regulated free zones. Construction approvals require active EHS compliance.'
       }
     ]
   },
@@ -2691,6 +2796,16 @@ export default function ServiceDetailPage({ params }: { params: Promise<{ servic
     })),
   } : null;
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://buildingapprovals.ae' },
+      { '@type': 'ListItem', position: 2, name: 'Services', item: 'https://buildingapprovals.ae/services' },
+      { '@type': 'ListItem', position: 3, name: serviceData.title, item: serviceUrl },
+    ],
+  };
+
   const toggleFaq = (index: number) => {
     setActiveFaq(activeFaq === index ? null : index);
   };
@@ -2700,6 +2815,10 @@ export default function ServiceDetailPage({ params }: { params: Promise<{ servic
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       {faqSchema && (
         <script
@@ -2842,6 +2961,24 @@ export default function ServiceDetailPage({ params }: { params: Promise<{ servic
                 <h3 className="timeline-title">Approval Timeline</h3>
                 <p className="timeline-text">{serviceData.timeline}</p>
               </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Case Studies Section */}
+      {serviceData.caseStudies && serviceData.caseStudies.length > 0 && (
+        <section className="service-section service-case-studies">
+          <div className="service-section-container">
+            <h2 className="service-section-title">Recent Project Examples</h2>
+            <div className="case-studies-grid">
+              {serviceData.caseStudies.map((study, index) => (
+                <div key={index} className="case-study-card">
+                  <h3 className="case-study-title">{study.title}</h3>
+                  <p className="case-study-description">{study.description}</p>
+                  <p className="case-study-outcome"><strong>Outcome:</strong> {study.outcome}</p>
+                </div>
+              ))}
             </div>
           </div>
         </section>

@@ -1,9 +1,9 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p>Getting <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense"><strong>DCD approval Dubai</strong></a> is one of the most important steps for any fit-out project involving offices, restaurants, retail shops, clinics, warehouses, salons, gyms, or commercial interiors. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence</a> reviews fire and life safety requirements to make sure the space is safe before it is occupied or operated.</p>
+      <p>Getting <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense"><strong>DCD approval Dubai</strong></a> is one of the most important steps for any fit-out project involving offices, restaurants, retail shops, clinics, warehouses, salons, gyms, or commercial interiors. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence</a> reviews fire and life safety requirements to make sure the space is safe before it is occupied or operated.</p>
 
-      <p>For fitout approvals, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">DCD</a> is not just a final certificate. It affects the design stage, MEP coordination, fire alarm layouts, firefighting systems, emergency exits, inspection readiness, and final <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">authority approval.</a> This guide explains the process, required documents, common mistakes, and practical ways to avoid delays in 2026.</p>
+      <p>For fitout approvals, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">DCD</a> is not just a final certificate. It affects the design stage, MEP coordination, fire alarm layouts, firefighting systems, emergency exits, inspection readiness, and final <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">authority approval.</a> This guide explains the process, required documents, common mistakes, and practical ways to avoid delays in 2026.</p>
 
       <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence</a> lists engineering drawing approvals and Hassantuk services among its official service areas, showing how closely design review and smart fire safety monitoring are connected to compliance.</p>
 
@@ -29,9 +29,9 @@ export default function BlogContent() {
 
       <h2>What is DCD Approval in Dubai?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense"><strong>DCD approval</strong></a><strong> is the fire and life safety approval issued by </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/"><strong>Dubai Civil Defence</strong></a><strong> for buildings, fit-out works, fire alarm systems, </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://smartservices.dcd.gov.ae/en"><strong>firefighting systems</strong></a><strong>, and occupancy-related safety compliance.</strong></p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense"><strong>DCD approval</strong></a><strong> is the fire and life safety approval issued by </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/"><strong>Dubai Civil Defence</strong></a><strong> for buildings, fit-out works, fire alarm systems, </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://smartservices.dcd.gov.ae/en"><strong>firefighting systems</strong></a><strong>, and occupancy-related safety compliance.</strong></p>
 
-      <p>For fit-out projects, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> confirms that the proposed interior layout and safety systems follow <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence</a> requirements before the project moves toward completion or operation.</p>
+      <p>For fit-out projects, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> confirms that the proposed interior layout and safety systems follow <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence</a> requirements before the project moves toward completion or operation.</p>
 
       <p><strong>DCD approval usually checks:</strong></p>
 
@@ -55,7 +55,7 @@ export default function BlogContent() {
 
       <h2>Why DCD Approval Matters for Fit-Out Projects</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> protects the building owner, tenant, contractor, and end users. A beautiful interior design can still fail approval if fire safety is not planned correctly.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> protects the building owner, tenant, contractor, and end users. A beautiful interior design can still fail approval if fire safety is not planned correctly.</p>
 
       <p>For example, a new office partition may block an exit path. A restaurant kitchen may require additional suppression systems. A warehouse may need special fire safety planning due to storage height, materials, or occupancy risk.</p>
 
@@ -73,11 +73,11 @@ export default function BlogContent() {
 
       <p>6. Additional consultant and contractor costs</p>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai’s approval</a> system is closely linked with building safety, fire protection, and code compliance. The Dubai Building Code was created to unify building design standards across Dubai, which makes early coordination between architectural, MEP, and fire safety teams essential.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai’s approval</a> system is closely linked with building safety, fire protection, and code compliance. The Dubai Building Code was created to unify building design standards across Dubai, which makes early coordination between architectural, MEP, and fire safety teams essential.</p>
 
       <h2>When is DCD Approval Required?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> is commonly required when a fit-out project affects fire and life safety systems.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> is commonly required when a fit-out project affects fire and life safety systems.</p>
 
       <h3>DCD approval is usually required for:</h3>
 
@@ -106,9 +106,9 @@ export default function BlogContent() {
         <li>Storage use changes the fire risk category</li>
       </ul>
 
-      <p><strong>Pro Tip:</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> is required for most Dubai fit-out projects where fire alarm, firefighting, emergency exit, smoke control, or occupancy safety systems are affected. It is especially important for restaurants, offices, retail units, warehouses, clinics, salons, gyms, and high-occupancy commercial spaces.</p>
+      <p><strong>Pro Tip:</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> is required for most Dubai fit-out projects where fire alarm, firefighting, emergency exit, smoke control, or occupancy safety systems are affected. It is especially important for restaurants, offices, retail units, warehouses, clinics, salons, gyms, and high-occupancy commercial spaces.</p>
 
-      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dcd-approval-dubai-complete-process"><em>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</em></a></p>
+      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dcd-approval-dubai-complete-process"><em>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</em></a></p>
 
       <h2>Step-by-Step DCD Approval Process</h2>
 
@@ -132,7 +132,7 @@ export default function BlogContent() {
 
       <h3>4. Submit Drawings Through the DCD System</h3>
 
-      <p>The approved consultant or authorized party submits the drawings and documents for review. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval">Dubai Civil Defence</a> engineering drawing approvals are intended to ensure compliance with DCD regulations.</p>
+      <p>The approved consultant or authorized party submits the drawings and documents for review. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval">Dubai Civil Defence</a> engineering drawing approvals are intended to ensure compliance with DCD regulations.</p>
 
       <h3>5. Respond to DCD Comments</h3>
 
@@ -148,9 +148,9 @@ export default function BlogContent() {
 
       <h3>8. Obtain Final Approval or Completion Certificate</h3>
 
-      <p>Once the site passes inspection and all requirements are satisfied, final <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> or completion-related clearance can be issued based on the project type and authority process.</p>
+      <p>Once the site passes inspection and all requirements are satisfied, final <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> or completion-related clearance can be issued based on the project type and authority process.</p>
 
-      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></p>
+      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></p>
 
       <h2>Required Documents Checklist</h2>
 
@@ -261,11 +261,11 @@ export default function BlogContent() {
 
       <p>6. Inspection readiness</p>
 
-      <p><strong>Pro Tip:</strong> The consultant usually manages approval and compliance documentation, while the contractor executes the approved work on site. For smooth <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a>, both must coordinate from the beginning.</p>
+      <p><strong>Pro Tip:</strong> The consultant usually manages approval and compliance documentation, while the contractor executes the approved work on site. For smooth <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a>, both must coordinate from the beginning.</p>
 
       <h2>Common Reasons for Delay or Rejection</h2>
 
-      <p>Many <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> delays are avoidable. They usually happen because the project starts before the approval strategy is clear.</p>
+      <p>Many <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> delays are avoidable. They usually happen because the project starts before the approval strategy is clear.</p>
 
       <h3>Common mistakes include:</h3>
 
@@ -295,7 +295,7 @@ export default function BlogContent() {
 
       <h3>1. Start Fire Safety Coordination Early</h3>
 
-      <p>Do not treat <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> as the last step. Review fire safety requirements before finalizing layout, ceiling, HVAC, and electrical plans.</p>
+      <p>Do not treat <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> as the last step. Review fire safety requirements before finalizing layout, ceiling, HVAC, and electrical plans.</p>
 
       <h3>2. Use Coordinated Drawings</h3>
 
@@ -303,7 +303,7 @@ export default function BlogContent() {
 
       <h3>3. Confirm the Correct Authority Sequence</h3>
 
-      <p>Depending on the project location, <a target="_blank" rel="noopener noreferrer nofollow" href="https://dm.gov.ae/">Dubai Municipality</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">DDA</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://pcfc.ae/en/Pages/servicelists.aspx?ref=Services&amp;BU=trakhees">Trakhees</a>, DSO, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jafza.ae/">JAFZA</a>, or master developer approvals may come before or alongside <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a>.</p>
+      <p>Depending on the project location, <a target="_blank" rel="noopener noreferrer nofollow" href="https://dm.gov.ae/">Dubai Municipality</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://dda.gov.ae/">DDA</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://pcfc.ae/en/Pages/servicelists.aspx?ref=Services&amp;BU=trakhees">Trakhees</a>, DSO, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.jafza.ae/">JAFZA</a>, or master developer approvals may come before or alongside <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a>.</p>
 
       <h3>4. Check Existing Site Conditions</h3>
 
@@ -355,11 +355,11 @@ export default function BlogContent() {
 
       <p>For property owners, facility management teams, fitout companies, and interior designers, the best approach is simple: design with DCD compliance in mind from day one.</p>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> is not only about submitting drawings. It is about making sure the built space is safe, coordinated, inspectable, and aligned with <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence </a>requirements.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> is not only about submitting drawings. It is about making sure the built space is safe, coordinated, inspectable, and aligned with <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Dubai Civil Defence </a>requirements.</p>
 
       <h2>Conclusion</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense"><strong>DCD approval Dubai</strong></a> is a critical part of fit-out project success in 2026. Whether you are preparing an office, restaurant, retail shop, clinic, salon, gym, or warehouse, fire and life safety compliance should be planned before construction begins.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense"><strong>DCD approval Dubai</strong></a> is a critical part of fit-out project success in 2026. Whether you are preparing an office, restaurant, retail shop, clinic, salon, gym, or warehouse, fire and life safety compliance should be planned before construction begins.</p>
 
       <p>The safest way to avoid delays is to prepare coordinated drawings, confirm the correct authority sequence, use qualified consultants and contractors, and complete inspection checks before final submission.</p>
 
@@ -369,15 +369,15 @@ export default function BlogContent() {
 
       <h3>1. What is DCD approval in Dubai?</h3>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> is the approval from <a target="_blank" rel="noopener noreferrer nofollow" href="https://smartservices.dcd.gov.ae/en">Dubai Civil Defence</a> confirming that a building or fit-out project meets fire and life safety requirements.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> is the approval from <a target="_blank" rel="noopener noreferrer nofollow" href="https://smartservices.dcd.gov.ae/en">Dubai Civil Defence</a> confirming that a building or fit-out project meets fire and life safety requirements.</p>
 
       <h3>2. Is DCD approval required for office fit-out in Dubai?</h3>
 
-      <p>Yes, office fit-outs often require <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> if partitions, ceilings, fire alarm devices, sprinklers, exits, or occupancy layouts are changed.</p>
+      <p>Yes, office fit-outs often require <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> if partitions, ceilings, fire alarm devices, sprinklers, exits, or occupancy layouts are changed.</p>
 
       <h3>3. Who can submit DCD approval drawings?</h3>
 
-      <p>DCD drawings are usually submitted by an approved consultant or authorized professional familiar with <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">Dubai Civil Defence</a> requirements.</p>
+      <p>DCD drawings are usually submitted by an approved consultant or authorized professional familiar with <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">Dubai Civil Defence</a> requirements.</p>
 
       <h3>4. What documents are needed for DCD approval Dubai?</h3>
 

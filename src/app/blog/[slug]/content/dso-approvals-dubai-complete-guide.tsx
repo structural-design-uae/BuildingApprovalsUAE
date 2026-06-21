@@ -3,15 +3,15 @@ export default function BlogContent() {
     <div className="blog-content-wrapper">
       <h2>Why DSO Approval Becomes a Bottleneck for Most Projects</h2>
 
-      <p>Getting <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dso">DSO Approval / DIEZ Approval</a> in Dubai sounds straightforward until you&apos;re stuck with portal rejections, authority comments, and costly delays while rent, manpower, and deadlines keep ticking.</p>
+      <p>Getting <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dso">DSO Approval / DIEZ Approval</a> in Dubai sounds straightforward until you&apos;re stuck with portal rejections, authority comments, and costly delays while rent, manpower, and deadlines keep ticking.</p>
 
       <p>Property owners and fit-out contractors in <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dso.ae/">Dubai Silicon Oasis (DSO)</a> often underestimate how strict and process-driven the approval system really is. One missing document, a non-compliant drawing, or an incorrect submission stage can push your project back by weeks or even months.</p>
 
-      <p>This guide explains what <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dso">DSO approval</a> is, how the DSO/DIEZ approval process works for fit-out and construction projects, and why hiring a professional consultant is often the smartest decision for projects in Dubai, UAE.</p>
+      <p>This guide explains what <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dso">DSO approval</a> is, how the DSO/DIEZ approval process works for fit-out and construction projects, and why hiring a professional consultant is often the smartest decision for projects in Dubai, UAE.</p>
 
       <h2>What Is DSO / DIEZ Approval in Dubai?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dso">DSO Approval</a> refers to the mandatory building, fit-out, and construction approvals required for projects located within <a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">Dubai Silicon Oasis</a>, governed by the Dubai Integrated Economic Zones Authority (DIEZ).</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dso">DSO Approval</a> refers to the mandatory building, fit-out, and construction approvals required for projects located within <a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">Dubai Silicon Oasis</a>, governed by the Dubai Integrated Economic Zones Authority (DIEZ).</p>
 
       <h3>Any activity involving:</h3>
 
@@ -35,7 +35,7 @@ export default function BlogContent() {
 
       <h2>Why DSO Approval Is Strict Compared to Other Dubai Zones?</h2>
 
-      <p>Unlike general Dubai Municipality areas, <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/dso">DSO</a> operates as a regulated free zone with its own:</p>
+      <p>Unlike general Dubai Municipality areas, <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/dso">DSO</a> operates as a regulated free zone with its own:</p>
 
       <ul>
         <li>Design guidelines</li>
@@ -44,7 +44,7 @@ export default function BlogContent() {
         <li>Approved contractor requirements</li>
       </ul>
 
-      <p>This means <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM approval</a> experience alone is not enough. DSO follows zone-specific technical rules that catch even experienced contractors off guard.</p>
+      <p>This means <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM approval</a> experience alone is not enough. DSO follows zone-specific technical rules that catch even experienced contractors off guard.</p>
 
       <figure className="blog-image-figure">
         <img src="https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dso-diez-approval-content-1-1770022939589.jpeg" alt="Building Approvals Dubai - DSO Approval / DIEZ Approval in Dubai 2026: A Complete Guide" />
@@ -127,7 +127,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dubai-municipality-approvals-dm-2026-updated-rules"><span>Dubai Municipality Approvals (DM): Updated Rules 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approvals-dm-2026-updated-rules"><span>Dubai Municipality Approvals (DM): Updated Rules 2026</span></a></p>
       </blockquote>
 
       <h2>Why Hire a Consultant for DSO Approval in Dubai?</h2>
@@ -202,14 +202,14 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>FAQs: DSO Approval in Dubai</h2>
 
       <h3>1. Is DSO approval mandatory for all fit-out works?</h3>
 
-      <p>Yes. Any internal modification within Dubai Silicon Oasis requires <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dso">DIEZ approval.</a></p>
+      <p>Yes. Any internal modification within Dubai Silicon Oasis requires <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dso">DIEZ approval.</a></p>
 
       <h3>2. How long does DSO approval take?</h3>
 
@@ -217,7 +217,7 @@ export default function BlogContent() {
 
       <h3>3. Is Dubai Municipality approval required inside DSO?</h3>
 
-      <p>No, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DSO</a> operates under <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dso">DIEZ</a>, but other authorities, such as <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">Civil Defence</a>, may still apply.</p>
+      <p>No, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DSO</a> operates under <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dso">DIEZ</a>, but other authorities, such as <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">Civil Defence</a>, may still apply.</p>
 
       <h3>4. Can I apply for DSO approval without a consultant?</h3>
 
@@ -230,8 +230,8 @@ export default function BlogContent() {
       <h2>Key Takeaways</h2>
 
       <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">DSO Approval</a> is mandatory for all projects in <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/dso">Dubai Silicon Oasis</a></li>
-        <li>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai">DIEZ</a> process is zone-specific and technical</li>
+        <li><a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">DSO Approval</a> is mandatory for all projects in <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/dso">Dubai Silicon Oasis</a></li>
+        <li>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai">DIEZ</a> process is zone-specific and technical</li>
         <li>Errors lead to delays, fines, and redesign costs</li>
         <li>Hiring a consultant improves approval speed and compliance</li>
         <li>Professional handling protects both time and budget</li>
@@ -239,11 +239,11 @@ export default function BlogContent() {
 
       <h3>Ready to Get Started?</h3>
 
-      <p>If you&apos;re planning a fit-out or construction project in <a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">Dubai Silicon Oasis</a> and want clarity before committing, it helps to speak with professionals who handle <a target="_blank" rel="noopener noreferrer" href="https://www.buildingapprovals.ae/services/dso">DSO approvals</a> daily.</p>
+      <p>If you&apos;re planning a fit-out or construction project in <a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">Dubai Silicon Oasis</a> and want clarity before committing, it helps to speak with professionals who handle <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/dso">DSO approvals</a> daily.</p>
 
       <ul>
         <li>Official portal for DSO: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dso.ae/">https://www.dso.ae/</a></li>
-        <li>Get in touch with us: <strong>+971 589575610</strong> to get specialist guidance now - <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/">https://www.buildingapprovals.ae/</a></li>
+        <li>Get in touch with us: <strong>+971 589575610</strong> to get specialist guidance now - <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/">https://buildingapprovals.ae/</a></li>
       </ul>
 
       <div className="cta-box">

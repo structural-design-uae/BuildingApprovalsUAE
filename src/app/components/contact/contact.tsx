@@ -327,7 +327,7 @@ const Contact: React.FC = () => {
           <span className="contact-bottom-copy-kicker">Ready to start?</span>
           <h2>Speak with an approvals specialist</h2>
           <p>
-            Contact us for reliable support with buidling approvals in Dubai. Our team helps property owners, contractors, and businesses manage documents, drawings, submissions, and follow-ups for smooth authority approvals. Whether you need dubai approvals for fit-out, renovation, villa modification, or commercial projects, we guide you through each step with clear communication and practical assistance. For hassle-free approvals dubai, reach out today and let us help move your project forward.
+            Contact us for reliable support with building approvals in Dubai. Our team helps property owners, contractors, and businesses manage documents, drawings, submissions, and follow-ups for smooth authority approvals. Whether you need dubai approvals for fit-out, renovation, villa modification, or commercial projects, we guide you through each step with clear communication and practical assistance. For hassle-free approvals dubai, reach out today and let us help move your project forward.
           </p>
           <div className="contact-bottom-copy-actions">
             <button type="button" onClick={() => setIsModalOpen(true)}>

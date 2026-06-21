@@ -17,7 +17,7 @@ export default function BlogContent() {
         <li>The developer does not object to the proposed change (such as transfer, refinancing, or renovation).</li>
       </ul>
 
-      <p>Think of it as a <strong>developer’s clearance stamp</strong> needed before official registration or <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">approval</a> by government authorities like the <a target="_blank" rel="noopener noreferrer nofollow" href="https://dubailand.gov.ae/en/#/"><strong>Dubai Land Department (DLD)</strong></a>.</p>
+      <p>Think of it as a <strong>developer’s clearance stamp</strong> needed before official registration or <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">approval</a> by government authorities like the <a target="_blank" rel="noopener noreferrer nofollow" href="https://dubailand.gov.ae/en/#/"><strong>Dubai Land Department (DLD)</strong></a>.</p>
 
       <h2>Why the Nakheel NOC Is Important in 2026</h2>
 
@@ -57,7 +57,7 @@ export default function BlogContent() {
       </figure>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/how-to-get-dda-authority-approval-in-dubai"><span>How to get DDA Approval in Dubai 2026?</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-get-dda-authority-approval-in-dubai"><span>How to get DDA Approval in Dubai 2026?</span></a></p>
       </blockquote>
 
       <h2>A Practical Step‑by‑Step Guide to Getting a Nakheel NOC</h2>
@@ -79,7 +79,7 @@ export default function BlogContent() {
 
       <h3><strong>Step 2 — Submit Your Application</strong></h3>
 
-      <p><strong>Apply online</strong> through the Nakheel customer portal or mobile app. If you prefer, you can also visit a <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">Nakheel</a> Customer Service Centre in person.</p>
+      <p><strong>Apply online</strong> through the Nakheel customer portal or mobile app. If you prefer, you can also visit a <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">Nakheel</a> Customer Service Centre in person.</p>
 
       <h3>Make sure to:</h3>
 
@@ -103,7 +103,7 @@ export default function BlogContent() {
 
       <h3><strong>Step 4 — Nakheel Reviews Your Case</strong></h3>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">Nakheel</a> will check:</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">Nakheel</a> will check:</p>
 
       <ul>
         <li>Whether your service charges and dues are fully paid</li>
@@ -114,12 +114,12 @@ export default function BlogContent() {
       <p>This stage typically takes several business days.</p>
 
       <blockquote>
-        <p><strong><em><span>Keep Learning:</span></em></strong><em><span> </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/how-to-get-dewa-approvals-in-dubai-2026"><em><span>How to get DEWA Approvals in Dubai 2026?</span></em></a></p>
+        <p><strong><em><span>Keep Learning:</span></em></strong><em><span> </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-get-dewa-approvals-in-dubai-2026"><em><span>How to get DEWA Approvals in Dubai 2026?</span></em></a></p>
       </blockquote>
 
       <h3><strong>Step 5 — Receive and Use Your NOC</strong></h3>
 
-      <p>If approved, you’ll get the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">NOC</a> electronically via email or your portal dashboard.</p>
+      <p>If approved, you’ll get the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">NOC</a> electronically via email or your portal dashboard.</p>
 
       <p><strong>Use it to:</strong></p>
 
@@ -135,7 +135,7 @@ export default function BlogContent() {
 
       <h2>Inspection May Be Required</h2>
 
-      <p>For renovation or sale‑related NOCs, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">Nakheel</a> might perform a site visit before final approval.</p>
+      <p>For renovation or sale‑related NOCs, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">Nakheel</a> might perform a site visit before final approval.</p>
 
       <h2>Retrospective Approvals Can Take Longer</h2>
 
@@ -161,13 +161,13 @@ export default function BlogContent() {
 
       <h2>Final Thoughts</h2>
 
-      <p>Obtaining a <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">Nakheel NOC</a> in Dubai in 2026 is a crucial step in many property processes. With the right preparation and timely follow‑up, it can be completed efficiently and with minimal delays.</p>
+      <p>Obtaining a <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">Nakheel NOC</a> in Dubai in 2026 is a crucial step in many property processes. With the right preparation and timely follow‑up, it can be completed efficiently and with minimal delays.</p>
 
       <h2>If you’d like, I can also create:</h2>
 
       <ul>
         <li>A printable NOC checklist</li>
-        <li>A ready‑to‑send email draft for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/nakheel">Nakheel</a> submission</li>
+        <li>A ready‑to‑send email draft for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/nakheel">Nakheel</a> submission</li>
         <li>A shorter social media version</li>
       </ul>
 

@@ -5,21 +5,21 @@ export default function BlogContent() {
 
       <p>Fit-out projects in Dubai often look straightforward on paper, but many businesses face unexpected delays once the approval process begins.</p>
 
-      <p>Office <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fit-out approval</a> is not just about design aesthetics; it involves strict compliance with local regulations, authority requirements, and building-specific rules.</p>
+      <p>Office <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fit-out approval</a> is not just about design aesthetics; it involves strict compliance with local regulations, authority requirements, and building-specific rules.</p>
 
       <p>A single oversight can lead to rejection, resubmissions, and costly project extensions.</p>
 
-      <p>Whether you are setting up a new office, renovating a retail space, or upgrading a commercial unit, understanding the most common <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fit-out approval</a> mistakes can save time, money, and frustration.</p>
+      <p>Whether you are setting up a new office, renovating a retail space, or upgrading a commercial unit, understanding the most common <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fit-out approval</a> mistakes can save time, money, and frustration.</p>
 
       <p>This guide explains the key errors that delay projects in Dubai and how to avoid them, based on real approval scenarios across commercial buildings and free zones.</p>
 
       <h2>Understanding Fit-Out Approval in Dubai</h2>
 
-      <p>Before looking at the mistakes, it is important to understand what fit-out approval involves. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Fit-out approval</a> is the official permission required from relevant authorities and building management to carry out interior works within a commercial or office space.</p>
+      <p>Before looking at the mistakes, it is important to understand what fit-out approval involves. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Fit-out approval</a> is the official permission required from relevant authorities and building management to carry out interior works within a commercial or office space.</p>
 
       <h2>Depending on the location and scope, office fit-out approval in Dubai may involve:</h2>
 
-      <p>Building management <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a>, Developer approvals, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">Civil Defence approval</a> for fire and life safety, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/#">Municipality</a> or authority <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">building approvals</a>, Free zone authority approvals, where applicable. Each authority reviews different aspects of the design and execution. Missing alignment between them is one of the main reasons projects get delayed.</p>
+      <p>Building management <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals</a>, Developer approvals, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">Civil Defence approval</a> for fire and life safety, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/#">Municipality</a> or authority <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">building approvals</a>, Free zone authority approvals, where applicable. Each authority reviews different aspects of the design and execution. Missing alignment between them is one of the main reasons projects get delayed.</p>
 
       <figure className="blog-image-figure">
         <img src="https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-fit-out-approval-content-1768552866539.jpeg" alt="Building Approvals Dubai - 10 Common Fit-Out Approval Mistakes That Delay Projects in Dubai - 2026" />
@@ -32,7 +32,7 @@ export default function BlogContent() {
       <p>Working hours, noise restrictions, approved materials, core drilling limitations, and mechanical and electrical capacities.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/how-to-get-fitout-approvals-in-dubai"><span>How to get Fitout Approvals in Dubai: Step-by-Step Process</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-get-fitout-approvals-in-dubai"><span>How to get Fitout Approvals in Dubai: Step-by-Step Process</span></a></p>
       </blockquote>
 
       <h3><strong>Why does this cause delays?</strong></h3>
@@ -55,7 +55,7 @@ export default function BlogContent() {
 
       <h2><strong>Mistake 3: Ignoring Fire and Life Safety Requirements</strong></h2>
 
-      <p>Fire and life safety compliance is critical in Dubai. Many office <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fit-out approval</a> delays happen because fire safety requirements are considered late in the process.</p>
+      <p>Fire and life safety compliance is critical in Dubai. Many office <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fit-out approval</a> delays happen because fire safety requirements are considered late in the process.</p>
 
       <h3>Typical fire safety oversights</h3>
 
@@ -75,7 +75,7 @@ export default function BlogContent() {
 
       <p>Declaring a standard office while planning a training centre. Treating a clinic fit-out as a normal commercial office, ignoring special requirements for call centres or data-heavy offices, results in problems. Different space types have different load, fire, and accessibility requirements. Incorrect classification leads to redesign and reapproval.</p>
 
-      <p><strong>How to prevent it: </strong>Clearly define the operational use of the space before submitting for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">building approvals</a> and authority clearances.</p>
+      <p><strong>How to prevent it: </strong>Clearly define the operational use of the space before submitting for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">building approvals</a> and authority clearances.</p>
 
       <h2><strong>Mistake 5: Delayed NOCs from Building Management or Developers</strong></h2>
 
@@ -135,33 +135,33 @@ export default function BlogContent() {
 
       <h2>Mistake 10: Not Engaging a Fit-Out Approval Specialist</h2>
 
-      <p>The final and most overlooked mistake is attempting to manage <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fit-out approval </a>without professional support.</p>
+      <p>The final and most overlooked mistake is attempting to manage <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fit-out approval </a>without professional support.</p>
 
       <p><strong>Why this matters: </strong>Dubai’s building approvals system involves multiple authorities, each with different requirements. Missing one step can halt the entire project.</p>
 
       <p><strong>Advantage of expert support: </strong>A specialist understands authority expectations, submission sequencing, and common pitfalls, significantly reducing approval delays.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>Practical Example from Dubai</h2>
 
-      <p>A mid-sized company setting up an office in Business Bay submitted fit-out drawings without confirming chilled water capacity. The building management rejected the proposal, requiring HVAC redesign and fresh <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">authority approvals.</a> The project was delayed by six weeks. With proper load checks and early coordination, this delay could have been avoided entirely.</p>
+      <p>A mid-sized company setting up an office in Business Bay submitted fit-out drawings without confirming chilled water capacity. The building management rejected the proposal, requiring HVAC redesign and fresh <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">authority approvals.</a> The project was delayed by six weeks. With proper load checks and early coordination, this delay could have been avoided entirely.</p>
 
       <h2>FAQs (Frequently Asked Questions)</h2>
 
       <h3><strong>1. How long does office fit-out approval take in Dubai?</strong></h3>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Approval</a> timelines vary, but typically range from 2 to 6 weeks depending on authority requirements, building management processes, and submission quality.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Approval</a> timelines vary, but typically range from 2 to 6 weeks depending on authority requirements, building management processes, and submission quality.</p>
 
       <h3><strong>2. Is fit-out approval mandatory for small office renovations?</strong></h3>
 
-      <p>Yes. Even minor changes, such as partition alterations or MEP modifications, usually require <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fit-out approval</a> and building approvals in Dubai.</p>
+      <p>Yes. Even minor changes, such as partition alterations or MEP modifications, usually require <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fit-out approval</a> and building approvals in Dubai.</p>
 
       <h3><strong>3. Which authorities are involved in fit-out approval?</strong></h3>
 
-      <p>Depending on location, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a> may involve building management, developers, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Civil Defence</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/#">municipality</a> departments, and free zone authorities.</p>
+      <p>Depending on location, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals</a> may involve building management, developers, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/">Civil Defence</a>, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/#">municipality</a> departments, and free zone authorities.</p>
 
       <h3><strong>4. Can work start before fit-out approval is granted?</strong></h3>
 
@@ -179,9 +179,9 @@ export default function BlogContent() {
 
       <h2>Need Help with Fit-Out Approval in Dubai?</h2>
 
-      <p>If you are planning an office or commercial fit-out and want to avoid costly approval delays, consulting a <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/pool">fit-out approval</a> specialist can make the process smoother and more predictable.</p>
+      <p>If you are planning an office or commercial fit-out and want to avoid costly approval delays, consulting a <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/pool">fit-out approval</a> specialist can make the process smoother and more predictable.</p>
 
-      <p>A structured approach to office <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/food-control">fit-out approval</a> ensures compliance, faster clearances, and a stress-free project journey.</p>
+      <p>A structured approach to office <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/food-control">fit-out approval</a> ensures compliance, faster clearances, and a stress-free project journey.</p>
 
       <div className="cta-box">
         <h3>Ready to Start Your Project?</h3>

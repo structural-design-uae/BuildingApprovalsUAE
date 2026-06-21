@@ -13,7 +13,7 @@ export default function BlogContent() {
         <li>Complete architectural drawings (plans, elevations, sections)</li>
         <li>Site plans showing plot details, setbacks, and access routes</li>
         <li>Proof of compliance with updated <strong>Dubai building codes</strong></li>
-        <li>Supporting documents for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a> and compliance certificates</li>
+        <li>Supporting documents for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals</a> and compliance certificates</li>
         <li>Final review to avoid missing or inconsistent information</li>
       </ul>
 
@@ -50,7 +50,7 @@ export default function BlogContent() {
       </figure>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/dm-dubai-municipality-approval-2026-complete-guide"><span>DM Dubai Municipality Approval 2026 – Complete Guide</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-dubai-municipality-approval-2026-complete-guide"><span>DM Dubai Municipality Approval 2026 – Complete Guide</span></a></p>
       </blockquote>
 
       <h2>Step 4: Address Modifications and Clarifications</h2>
@@ -63,15 +63,15 @@ export default function BlogContent() {
         <li>Resubmit the revised application for final consideration</li>
       </ul>
 
-      <p><strong>Tip:</strong> Quick response to modification requests significantly speeds up the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> timeline.</p>
+      <p><strong>Tip:</strong> Quick response to modification requests significantly speeds up the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> timeline.</p>
 
       <h2>Step 5: Obtain Preliminary Approval</h2>
 
       <p>Once your application passes reviews:</p>
 
       <ul>
-        <li>Receive preliminary <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> notification</li>
-        <li>Review the conditions and requirements attached to the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a></li>
+        <li>Receive preliminary <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> notification</li>
+        <li>Review the conditions and requirements attached to the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a></li>
         <li>Gain authorization to commence project planning and preparation</li>
       </ul>
 
@@ -110,7 +110,7 @@ export default function BlogContent() {
       <p><em>Timelines vary based on project complexity, size, and required permits.</em></p>
 
       <blockquote>
-        <p><strong><em><span>Keep Learning: </span></em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><em><span>Keep Learning: </span></em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>Why Professional Support Speeds Up Dubai Building Approvals</h2>
@@ -128,7 +128,7 @@ export default function BlogContent() {
 
       <h2>Common Challenges We Manage for Smooth Approvals</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai building approvals</a> may face obstacles such as:</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai building approvals</a> may face obstacles such as:</p>
 
       <ul>
         <li>Extended processing times due to municipal backlogs</li>

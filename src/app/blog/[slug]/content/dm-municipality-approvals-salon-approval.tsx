@@ -3,23 +3,23 @@ export default function BlogContent() {
     <div className="blog-content-wrapper">
       <p>Getting <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/"><strong>DM Municipality</strong></a> approval is one of the most important steps before opening, renovating, or modifying a salon in Dubai. Whether it is a ladies’ salon, gents’ salon, beauty centre, spa-related fitout, or small grooming shop, the layout, hygiene standards, ventilation, drainage, electrical works, and interior fitout must meet <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/">Dubai Municipality</a> requirements.</p>
 
-      <p>This guide explains how to get <strong>salon </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>approval</strong></a><strong> in Dubai in 2026</strong>, what documents are usually required, how the <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/"><strong>DM Dubai</strong></a> and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildindubai.gov.ae/"><strong>DM BPS</strong></a> processes work, and how property owners, facility management teams, fitout companies, and interior designers can avoid delays.</p>
+      <p>This guide explains how to get <strong>salon </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>approval</strong></a><strong> in Dubai in 2026</strong>, what documents are usually required, how the <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/"><strong>DM Dubai</strong></a> and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildindubai.gov.ae/"><strong>DM BPS</strong></a> processes work, and how property owners, facility management teams, fitout companies, and interior designers can avoid delays.</p>
 
       <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/">Dubai Municipality</a> lists building, construction, land, food, consumer products, training, health, safety, and other service categories through its official platforms, while Build in Dubai is positioned as a unified electronic platform for building-related services and information.</p>
 
       <h2>What Is DM Municipality Salon Approval?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/"><strong>DM Municipality</strong></a><strong> salon approval</strong> is the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> process required to confirm that a salon space in Dubai meets <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/">Dubai Municipality’s</a> building, health, safety, hygiene, and fitout requirements before the business starts operation or completes modification work.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/"><strong>DM Municipality</strong></a><strong> salon approval</strong> is the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> process required to confirm that a salon space in Dubai meets <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/">Dubai Municipality’s</a> building, health, safety, hygiene, and fitout requirements before the business starts operation or completes modification work.</p>
 
-      <p>In simple terms, it ensures that the salon is safe for customers, suitable for staff, and compliant with <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai’s authority</a> standards.</p>
+      <p>In simple terms, it ensures that the salon is safe for customers, suitable for staff, and compliant with <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai’s authority</a> standards.</p>
 
-      <p>For most salon projects, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> may involve multiple parts, such as:</p>
+      <p>For most salon projects, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> may involve multiple parts, such as:</p>
 
       <ul>
         <li>Trade license activity coordination</li>
         <li>Tenancy or ownership documents</li>
         <li>Fitout drawings</li>
-        <li>Interior layout <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a></li>
+        <li>Interior layout <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a></li>
         <li>MEP drawings</li>
         <li>Drainage and plumbing review</li>
         <li>Ventilation and air-conditioning checks</li>
@@ -27,19 +27,19 @@ export default function BlogContent() {
         <li>Final inspection before operation</li>
       </ul>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai Municipality’s</a> website includes service access, request tracking, document verification, and relevant construction, health, safety, and consumer product categories, which shows why salon projects should be planned with both fitout and public health compliance in mind.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai Municipality’s</a> website includes service access, request tracking, document verification, and relevant construction, health, safety, and consumer product categories, which shows why salon projects should be planned with both fitout and public health compliance in mind.</p>
 
       <h2>Why Is Salon Approval Required in Dubai?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Salon approval</a> is required because salons involve close customer contact, chemical products, water usage, electrical equipment, hygiene-sensitive services, and interior fitout work. A poorly planned salon can create risks related to infection control, poor ventilation, drainage issues, unsafe electrical points, or non-compliant partitioning.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Salon approval</a> is required because salons involve close customer contact, chemical products, water usage, electrical equipment, hygiene-sensitive services, and interior fitout work. A poorly planned salon can create risks related to infection control, poor ventilation, drainage issues, unsafe electrical points, or non-compliant partitioning.</p>
 
-      <p>To open or renovate a salon in Dubai, you usually need <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM approval</a> to confirm that the premises, layout, fitout works, hygiene facilities, ventilation, drainage, and safety arrangements meet <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">Dubai Municipality</a> requirements. Without approval, the salon may face delays, fines, inspection failure, or restrictions on operation.</p>
+      <p>To open or renovate a salon in Dubai, you usually need <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM approval</a> to confirm that the premises, layout, fitout works, hygiene facilities, ventilation, drainage, and safety arrangements meet <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">Dubai Municipality</a> requirements. Without approval, the salon may face delays, fines, inspection failure, or restrictions on operation.</p>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Approval</a> also protects the property owner and tenant. If fitout work is done without proper drawings and authority coordination, the building management, landlord, or authority may ask for rectification before allowing the salon to operate.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Approval</a> also protects the property owner and tenant. If fitout work is done without proper drawings and authority coordination, the building management, landlord, or authority may ask for rectification before allowing the salon to operate.</p>
 
       <h2>Who Needs Salon Approval in Dubai?</h2>
 
-      <p>You may need <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>salon approval</strong></a> if you are:</p>
+      <p>You may need <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>salon approval</strong></a> if you are:</p>
 
       <ul>
         <li>Opening a new ladies’ salon or gents’ salon</li>
@@ -50,7 +50,7 @@ export default function BlogContent() {
         <li>Installing partitions, ceilings, or new electrical points</li>
         <li>Taking over an existing salon space</li>
         <li>Converting a retail unit into a salon</li>
-        <li>Applying for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fitout approval</a> before starting work</li>
+        <li>Applying for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fitout approval</a> before starting work</li>
       </ul>
 
       <p>This applies to property owners, tenants, facility management companies, fitout contractors, consultants, and interior designers involved in salon projects across Dubai.</p>
@@ -78,13 +78,13 @@ export default function BlogContent() {
 
       <h3>Step 2: Get Landlord or Developer NOC</h3>
 
-      <p>Before applying for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">authority approval</a>, most projects require an NOC from the landlord, building management, master developer, or community authority.</p>
+      <p>Before applying for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">authority approval</a>, most projects require an NOC from the landlord, building management, master developer, or community authority.</p>
 
-      <p>This is important because <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/">Dubai Municipality</a> or other <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> channels may ask for proof that the owner or developer has no objection to the proposed fitout or modification.</p>
+      <p>This is important because <a target="_blank" rel="noopener noreferrer nofollow" href="https://hub.dm.gov.ae/link/service/">Dubai Municipality</a> or other <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> channels may ask for proof that the owner or developer has no objection to the proposed fitout or modification.</p>
 
       <h3>Step 3: Prepare Salon Fitout Drawings</h3>
 
-      <p>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">fitout consultant</a> or technical team prepares the required drawings. These usually include architectural layout, reflected ceiling plan, electrical layout, plumbing layout, HVAC details, drainage points, and sometimes fire and life safety coordination.</p>
+      <p>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">fitout consultant</a> or technical team prepares the required drawings. These usually include architectural layout, reflected ceiling plan, electrical layout, plumbing layout, HVAC details, drainage points, and sometimes fire and life safety coordination.</p>
 
       <p>The drawings should clearly show:</p>
 
@@ -106,7 +106,7 @@ export default function BlogContent() {
 
       <h3>Step 4: Submit Through the Relevant Approval Platform</h3>
 
-      <p>For building and fitout-related approvals, submissions may be routed through <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> systems or the relevant <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">building permit</a> process. Build in Dubai is described as a unified electronic platform created by <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> for services and information related to building needs in Dubai.</p>
+      <p>For building and fitout-related approvals, submissions may be routed through <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> systems or the relevant <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">building permit</a> process. Build in Dubai is described as a unified electronic platform created by <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> for services and information related to building needs in Dubai.</p>
 
       <p>For many construction and fitout-related applications, the Dubai Building Permit System, commonly referred to as <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/"><strong>DM BPS</strong></a> or <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/"><strong>Dubai BPS</strong></a>, is used for digital submission, drawing review, authority comments, and permit tracking.</p>
 
@@ -118,7 +118,7 @@ export default function BlogContent() {
 
       <h3>Step 6: Receive DM Approval or Fitout Permit</h3>
 
-      <p>Once the submission is accepted, the approval or permit can be issued. Fitout work should follow the approved drawings only. Any major site change may require revised <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a>.</p>
+      <p>Once the submission is accepted, the approval or permit can be issued. Fitout work should follow the approved drawings only. Any major site change may require revised <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a>.</p>
 
       <h3>Step 7: Complete Work and Prepare for Inspection</h3>
 
@@ -130,7 +130,7 @@ export default function BlogContent() {
 
       <p>The exact list of documents can vary depending on the authority, business activity, and building location.</p>
 
-      <p>However, the following documents are commonly required for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality"><strong>DM approval</strong></a> or salon fitout approval:</p>
+      <p>However, the following documents are commonly required for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality"><strong>DM approval</strong></a> or salon fitout approval:</p>
 
       <h3 className="text-align-center">Requirement</h3>
 
@@ -150,7 +150,7 @@ export default function BlogContent() {
 
       <h3>2. Plumbing and Drainage</h3>
 
-      <p>Salon spaces often require a water supply and drainage for hair washing, cleaning, manicure/pedicure support, and hygiene areas. Poor drainage planning can cause <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> issues and expensive site changes.</p>
+      <p>Salon spaces often require a water supply and drainage for hair washing, cleaning, manicure/pedicure support, and hygiene areas. Poor drainage planning can cause <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> issues and expensive site changes.</p>
 
       <h3>3. Ventilation and Odour Control</h3>
 

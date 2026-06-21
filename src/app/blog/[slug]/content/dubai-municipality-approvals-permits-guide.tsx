@@ -1,13 +1,13 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p>Dubai is known for its fast-paced construction ecosystem, but every project, whether it is a villa modification, commercial fit-out, warehouse construction, or infrastructure work, must comply with strict municipal regulations. One of the most critical <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a> required before starting any physical work is the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai Municipality Approval.</a></p>
+      <p>Dubai is known for its fast-paced construction ecosystem, but every project, whether it is a villa modification, commercial fit-out, warehouse construction, or infrastructure work, must comply with strict municipal regulations. One of the most critical <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals</a> required before starting any physical work is the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai Municipality Approval.</a></p>
 
-      <p>Many project delays, penalties, and rejections happen simply because owners, consultants, or contractors do not fully understand the DM approval process. This guide explains what <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">Dubai Municipality Approval</a> is, when it is required, how to obtain it, and how to avoid common mistakes—written specifically for businesses and property owners operating in Dubai.</p>
+      <p>Many project delays, penalties, and rejections happen simply because owners, consultants, or contractors do not fully understand the DM approval process. This guide explains what <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">Dubai Municipality Approval</a> is, when it is required, how to obtain it, and how to avoid common mistakes—written specifically for businesses and property owners operating in Dubai.</p>
 
       <h2>What Is Dubai Municipality Approval?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai Municipality Approval</a> is the official authorization issued by <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality (DM)</a> to ensure that construction, engineering, and fit-out works comply with local building codes, safety regulations, environmental standards, and zoning laws.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai Municipality Approval</a> is the official authorization issued by <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality (DM)</a> to ensure that construction, engineering, and fit-out works comply with local building codes, safety regulations, environmental standards, and zoning laws.</p>
 
       <p><strong>DM Approval acts as a regulatory checkpoint. It verifies that the proposed design and execution align with:</strong></p>
 
@@ -19,11 +19,11 @@ export default function BlogContent() {
         <li>Public health and safety norms</li>
       </ul>
 
-      <p>“Without valid <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM Approval</a>, no legal construction or modification activity can proceed in Dubai.”</p>
+      <p>“Without valid <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM Approval</a>, no legal construction or modification activity can proceed in Dubai.”</p>
 
       <h2>When Is Dubai Municipality Approval Required?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM Approval</a> is mandatory for a wide range of projects across residential, commercial, industrial, and mixed-use developments.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM Approval</a> is mandatory for a wide range of projects across residential, commercial, industrial, and mixed-use developments.</p>
 
       <h2>Residential Projects</h2>
 
@@ -58,7 +58,7 @@ export default function BlogContent() {
 
       <h2>Difference Between Dubai Municipality Approval and DM Approval</h2>
 
-      <p>Many people use the terms interchangeably, and in practice, they mean the same thing. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM Approval</a> is simply the abbreviated form of <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">Dubai Municipality Approval</a>. Both refer to approvals issued directly by <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Dubai Municipality</a> through its engineering and building control departments.</p>
+      <p>Many people use the terms interchangeably, and in practice, they mean the same thing. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM Approval</a> is simply the abbreviated form of <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">Dubai Municipality Approval</a>. Both refer to approvals issued directly by <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Dubai Municipality</a> through its engineering and building control departments.</p>
 
       <h2>However, DM Approval may also include sub-approvals such as:</h2>
 
@@ -70,22 +70,22 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><em><span>Keep Learning:</span></em></strong><em><span> </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><em><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></em></a></p>
+        <p><strong><em><span>Keep Learning:</span></em></strong><em><span> </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><em><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></em></a></p>
       </blockquote>
 
       <h2>Types of Dubai Municipality Approvals</h2>
 
       <ul>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">Dubai Municipality </a>issues different approvals depending on the project scope.</li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">Dubai Municipality </a>issues different approvals depending on the project scope.</li>
         <li>Building Permit Approval</li>
         <li>Required for new construction, demolition, and major structural changes.</li>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Fit-Out Approval</a></li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Fit-Out Approval</a></li>
         <li>Issued for interior works such as partitioning, MEP modifications, and layout changes.</li>
         <li>Temporary Structure Approval</li>
         <li>Required for site offices, hoardings, scaffolding, and temporary facilities.</li>
         <li>Drainage and Sewer Approval</li>
         <li>Mandatory for connections to the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> sewer and drainage networks.</li>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">Food Safety Approval</a></li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">Food Safety Approval</a></li>
         <li>Required for restaurants, kitchens, cafeterias, and food processing units.</li>
       </ul>
 
@@ -123,7 +123,7 @@ export default function BlogContent() {
       <p>Once all comments are addressed, Dubai Municipality Approval is granted, allowing work to proceed legally.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><span>Why hire a Consultant for Dubai Civil Defence DCD Approval?</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><span>Why hire a Consultant for Dubai Civil Defence DCD Approval?</span></a></p>
       </blockquote>
 
       <h2>Documents Required for DM Approval</h2>
@@ -211,7 +211,7 @@ export default function BlogContent() {
 
       <h3>1. Is Dubai Municipality Approval mandatory for minor renovations?</h3>
 
-      <p>Yes. Even minor changes affecting layout, MEP, or safety systems usually require <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM Approval.</a></p>
+      <p>Yes. Even minor changes affecting layout, MEP, or safety systems usually require <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM Approval.</a></p>
 
       <h3>2. Can I apply for DM Approval without a consultant?</h3>
 
@@ -223,7 +223,7 @@ export default function BlogContent() {
 
       <h3>4. Is DM Approval required before landlord approval?</h3>
 
-      <p>In most cases, landlord approval is required first, followed by <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM Approval.</a></p>
+      <p>In most cases, landlord approval is required first, followed by <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM Approval.</a></p>
 
       <h3>5. What happens if work starts without DM Approval?</h3>
 
@@ -231,7 +231,7 @@ export default function BlogContent() {
 
       <h2>Get Expert Support for Dubai Municipality Approval</h2>
 
-      <p>If you are planning a construction, renovation, or fit-out project in Dubai, professional support can simplify the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/dubai-municipality">DM Approval</a> process. Experienced approval consultants can assess your project, manage submissions, and coordinate with authorities—helping you move forward with confidence and compliance.</p>
+      <p>If you are planning a construction, renovation, or fit-out project in Dubai, professional support can simplify the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dubai-municipality">DM Approval</a> process. Experienced approval consultants can assess your project, manage submissions, and coordinate with authorities—helping you move forward with confidence and compliance.</p>
 
       <p>For consultation or project assessment, connect with a specialist who understands <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> regulations inside out.</p>
 

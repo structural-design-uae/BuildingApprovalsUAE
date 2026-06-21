@@ -1,11 +1,11 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p>If you are planning to extend, renovate, or reconfigure a villa in Dubai, getting the right approval is not optional. In most cases, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">villa modification approval </a>is required before any structural work, major MEP changes, exterior changes, or area expansion can begin. This process usually involves <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a>, and in some cases, the master developer, community management, or other related authorities, depending on the project scope and location.</p>
+      <p>If you are planning to extend, renovate, or reconfigure a villa in Dubai, getting the right approval is not optional. In most cases, <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">villa modification approval </a>is required before any structural work, major MEP changes, exterior changes, or area expansion can begin. This process usually involves <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a>, and in some cases, the master developer, community management, or other related authorities, depending on the project scope and location.</p>
 
       <h2>What is villa modification approval?</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Villa modification approval</a> is the formal permission required to alter an existing villa beyond simple cosmetic work. It usually applies when the work affects structure, layout, building services, external appearance, safety, drainage, or built-up area. In Dubai, this is commonly handled through <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> approval workflows, with additional NOCs or supporting approvals depending on the community or development.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Villa modification approval</a> is the formal permission required to alter an existing villa beyond simple cosmetic work. It usually applies when the work affects structure, layout, building services, external appearance, safety, drainage, or built-up area. In Dubai, this is commonly handled through <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> approval workflows, with additional NOCs or supporting approvals depending on the community or development.</p>
 
       <p><strong>Villa modification approval in Dubai</strong> is the official permit process for major villa changes such as extensions, structural alterations, fa&amp;ccedil;ade updates, pools, drainage relocation, or major MEP works. Minor decorative changes usually do not need the same level of approval, but regulated work should always be checked before starting.</p>
 
@@ -15,11 +15,11 @@ export default function BlogContent() {
 
       <h3>1. Extension or built-up area increase</h3>
 
-      <p>Adding a room, maid’s room, pergola, enclosed terrace, service block, or any other extension usually needs <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> because it changes the approved built form.</p>
+      <p>Adding a room, maid’s room, pergola, enclosed terrace, service block, or any other extension usually needs <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> because it changes the approved built form.</p>
 
       <h3>2. Structural changes</h3>
 
-      <p>Removing load-bearing walls, adding beams, changing slab openings, staircase alterations, or modifying columns requires technical review and <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a>.</p>
+      <p>Removing load-bearing walls, adding beams, changing slab openings, staircase alterations, or modifying columns requires technical review and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a>.</p>
 
       <h3>3. Exterior modifications</h3>
 
@@ -31,11 +31,11 @@ export default function BlogContent() {
 
       <h3>5. Pool or major outdoor works</h3>
 
-      <p>A new swimming pool, service structures, or other significant site works commonly require submission and <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a>.</p>
+      <p>A new swimming pool, service structures, or other significant site works commonly require submission and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a>.</p>
 
       <h3>What may not need full approval?</h3>
 
-      <p>Purely cosmetic changes, such as painting, replacing loose furniture, or simple upgrades, may not need the same <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">permit </a>route. Still, owners should verify this before work starts, especially in managed communities.</p>
+      <p>Purely cosmetic changes, such as painting, replacing loose furniture, or simple upgrades, may not need the same <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">permit </a>route. Still, owners should verify this before work starts, especially in managed communities.</p>
 
       <h2>Who should read this guide?</h2>
 
@@ -44,7 +44,7 @@ export default function BlogContent() {
       <ul>
         <li>Villa owners in Dubai</li>
         <li>Property managers and facility management teams</li>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/top-10-interior-fitout-companies-dubai-2026">Fitout companies</a></li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/top-10-interior-fitout-companies-dubai-2026">Fitout companies</a></li>
         <li>Interior designers</li>
         <li>Consultants handling renovation and modification projects</li>
       </ul>
@@ -199,19 +199,19 @@ export default function BlogContent() {
 
       <h2>Conclusion</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Villa modification approval </a>in Dubai is more than a <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">permit</a> formality. It is the process that helps ensure your renovation, extension, or technical upgrade is legal, safe, documented, and easier to defend later. If your project involves structural work, service changes, built-up area increase, or external alteration, it is best to review the scope early and prepare the right documents before work starts.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Villa modification approval </a>in Dubai is more than a <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">permit</a> formality. It is the process that helps ensure your renovation, extension, or technical upgrade is legal, safe, documented, and easier to defend later. If your project involves structural work, service changes, built-up area increase, or external alteration, it is best to review the scope early and prepare the right documents before work starts.</p>
 
-      <p>A well-planned approval process usually saves more time than a rushed renovation. If needed, speak with an experienced <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approvals</a> team before finalizing drawings, especially for villas in managed communities or projects involving <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> building permits.</p>
+      <p>A well-planned approval process usually saves more time than a rushed renovation. If needed, speak with an experienced <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approvals</a> team before finalizing drawings, especially for villas in managed communities or projects involving <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality</a> building permits.</p>
 
       <h2>6. FAQs</h2>
 
       <h3>1. What is villa modification approval in Dubai?</h3>
 
-      <p>It is the official <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a> process required for major villa changes such as extensions, <a target="_blank" rel="noopener noreferrer nofollow" href="https://structuraldesigns.ae/services/">structural</a> modifications, exterior changes, and major MEP or drainage work.</p>
+      <p>It is the official <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a> process required for major villa changes such as extensions, <a target="_blank" rel="noopener noreferrer nofollow" href="https://structuraldesigns.ae/services/">structural</a> modifications, exterior changes, and major MEP or drainage work.</p>
 
       <h3>2. Does every villa renovation need Dubai Municipality approval?</h3>
 
-      <p>Not every cosmetic change needs full <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a>, but regulated works usually do. Structural, layout, extension, and service modifications should always be checked first.</p>
+      <p>Not every cosmetic change needs full <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a>, but regulated works usually do. Structural, layout, extension, and service modifications should always be checked first.</p>
 
       <h3>3. What documents are usually needed for dm approval for villa modification?</h3>
 
@@ -227,7 +227,7 @@ export default function BlogContent() {
 
       <h3>6. Is fitout approval the same as villa modification approval?</h3>
 
-      <p>Not always. Some simple interior works may follow a lighter route, but <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">villa modification approval</a> is broader when the project affects structure, services, external appearance, or the approved area.</p>
+      <p>Not always. Some simple interior works may follow a lighter route, but <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">villa modification approval</a> is broader when the project affects structure, services, external appearance, or the approved area.</p>
 
       <h3>7. Do I also need a developer or community NOC?</h3>
 

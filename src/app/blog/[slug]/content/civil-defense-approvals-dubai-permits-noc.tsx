@@ -1,9 +1,9 @@
 export default function BlogContent() {
   return (
     <div className="blog-content-wrapper">
-      <p>Fire and life safety are non-negotiable in Dubai&apos;s construction ecosystem. Whether you are building a villa, fitting out an office, or operating an industrial facility, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/"><strong>Dubai Civil Defence (DCD) </strong></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>approval</strong></a> is a mandatory requirement before you can legally proceed or occupy a space.</p>
+      <p>Fire and life safety are non-negotiable in Dubai&apos;s construction ecosystem. Whether you are building a villa, fitting out an office, or operating an industrial facility, <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dcd.gov.ae/portal/"><strong>Dubai Civil Defence (DCD) </strong></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>approval</strong></a> is a mandatory requirement before you can legally proceed or occupy a space.</p>
 
-      <p>This guide explains <strong>what DCD is, how to obtain approval step by step, the different </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>approval categories</strong></a><strong>, and their specific requirements</strong>, in a clear and practical way.</p>
+      <p>This guide explains <strong>what DCD is, how to obtain approval step by step, the different </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>approval categories</strong></a><strong>, and their specific requirements</strong>, in a clear and practical way.</p>
 
       <h2>Overview of Dubai Civil Defence (DCD)</h2>
 
@@ -21,16 +21,16 @@ export default function BlogContent() {
 
       <ul>
         <li>Ensures <strong>occupant safety</strong></li>
-        <li>Mandatory for <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>building permits</strong></a><strong> and completion certificates</strong></li>
+        <li>Mandatory for <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>building permits</strong></a><strong> and completion certificates</strong></li>
         <li>Required for <strong>business licensing and renewals</strong></li>
         <li>Reduces fire risks and insurance liabilities</li>
       </ul>
 
-      <p>Without <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a>, projects may face <strong>construction delays, penalties, or rejection by other authorities</strong>.</p>
+      <p>Without <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a>, projects may face <strong>construction delays, penalties, or rejection by other authorities</strong>.</p>
 
       <h2>Step-by-Step Process to Obtain DCD Approval</h2>
 
-      <p>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense">DCD approval</a> process follows a structured workflow. Missing even a small detail can lead to rejection, so accuracy is critical.</p>
+      <p>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> process follows a structured workflow. Missing even a small detail can lead to rejection, so accuracy is critical.</p>
 
       <h3>Step 1: Identify the Project Type</h3>
 
@@ -66,7 +66,7 @@ export default function BlogContent() {
         <li>Fees vary based on project size and type</li>
       </ul>
 
-      <h3><em>Also Read: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></h3>
+      <h3><em>Also Read: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></h3>
 
       <h3>Step 4: Technical Review by DCD</h3>
 
@@ -91,11 +91,11 @@ export default function BlogContent() {
       <p>Once approved:</p>
 
       <ul>
-        <li>You receive <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services"><strong>DCD Design Approval</strong></a></li>
+        <li>You receive <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services"><strong>DCD Design Approval</strong></a></li>
         <li>Construction or fit-out work can officially begin</li>
       </ul>
 
-      <h3><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense"><em>Dubai Civil Defence: https://www.buildingapprovals.ae/services/civil-defense</em></a></h3>
+      <h3><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense"><em>Dubai Civil Defence: https://buildingapprovals.ae/services/civil-defense</em></a></h3>
 
       <h3>Step 6: Installation of Approved Fire Systems</h3>
 
@@ -127,7 +127,7 @@ export default function BlogContent() {
 
       <h2>Categories of Dubai Civil Defence Approval &amp; Their Requirements</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">DCD approvals</a> are categorized based on building usage and risk level. Each category has specific requirements.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">DCD approvals</a> are categorized based on building usage and risk level. Each category has specific requirements.</p>
 
       <h3>1. Residential Buildings (Villas &amp; Apartments)</h3>
 
@@ -204,7 +204,7 @@ export default function BlogContent() {
 
       <ul>
         <li>Storage type affects fire system design</li>
-        <li>High-risk materials require special <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">approval</a></li>
+        <li>High-risk materials require special <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">approval</a></li>
       </ul>
 
       <h3>4. Restaurants, Caf&amp;eacute;s &amp; Commercial Kitchens</h3>
@@ -285,7 +285,7 @@ export default function BlogContent() {
       <p><strong>Notes:</strong></p>
 
       <ul>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services">Approval</a> is time-bound</li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services">Approval</a> is time-bound</li>
         <li>Renewal is required for repeated events</li>
       </ul>
 
@@ -303,7 +303,7 @@ export default function BlogContent() {
         <li>Poor installation quality</li>
       </ul>
 
-      <p>Working with an <strong>experienced </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.buildingapprovals.ae/services/civil-defense"><strong>DCD consultant</strong></a> significantly reduces approval risks.</p>
+      <p>Working with an <strong>experienced </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense"><strong>DCD consultant</strong></a> significantly reduces approval risks.</p>
 
       <div className="cta-box">
         <h3>Ready to Start Your Project?</h3>

@@ -41,7 +41,8 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
   if (!post) return { title: 'Post Not Found' };
 
   const imageUrl = resolveImageUrl(post.ogImage || post.coverImage || post.image);
-  const url = `${BASE_URL}/blog/${post.slug}`;
+  const canonicalSlug = post.canonicalSlug ?? post.slug;
+  const url = `${BASE_URL}/blog/${canonicalSlug}`;
 
   return {
     title: { absolute: normalizeMetaTitle(post.metaTitle || post.title) },
@@ -54,17 +55,19 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       canonical: url,
       languages: { en: url, 'x-default': url },
     },
-    robots: {
-      index: true,
-      follow: true,
-      googleBot: {
-        index: true,
-        follow: true,
-        'max-video-preview': -1,
-        'max-image-preview': 'large',
-        'max-snippet': -1,
-      },
-    },
+    robots: post.canonicalSlug
+      ? { index: false, follow: true }
+      : {
+          index: true,
+          follow: true,
+          googleBot: {
+            index: true,
+            follow: true,
+            'max-video-preview': -1,
+            'max-image-preview': 'large',
+            'max-snippet': -1,
+          },
+        },
     openGraph: {
       title: normalizeMetaTitle(post.metaTitle || post.title),
       description: post.metaDescription || post.excerpt,
@@ -112,12 +115,14 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
     .slice(0, 3);
 
   const imageUrl = resolveImageUrl(post.ogImage || post.coverImage || post.image);
+  const canonicalSlug = post.canonicalSlug ?? post.slug;
+  const canonicalUrl = `${BASE_URL}/blog/${canonicalSlug}`;
   const postUrl = `${BASE_URL}/blog/${post.slug}`;
 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
-    '@id': `${postUrl}#blogposting`,
+    '@id': `${canonicalUrl}#blogposting`,
     headline: post.title,
     description: post.metaDescription || post.excerpt,
     image: { '@type': 'ImageObject', url: imageUrl, width: 1200, height: 630 },
@@ -141,7 +146,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
         height: 1200,
       },
     },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': postUrl },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
     keywords: post.keywords?.join(', '),
     articleSection: post.category,
     inLanguage: 'en-AE',
