@@ -9,17 +9,17 @@ export default function BlogContent() {
 
       <p>In Dubai, fit-out delays often don&apos;t happen because the design is &quot;bad&quot;; they happen because the submission doesn&apos;t match <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.dm.gov.ae/">Dubai Municipality (DM)</a> requirements, the MEP coordination is off, or the site execution doesn&apos;t follow the approved set.</p>
 
-      <p>This guide covers the most common <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-process-2026">DM Approval</a> violations during the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fit-out-approval-dubai-simple-practical-guide-2026">fit-out approval</a> process in Dubai, UAE, why they happen, and the practical steps you can take to avoid rejections, fines, and stop-work situations.</p>
+      <p>This guide covers the most common <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-step-by-step-guide">DM Approval</a> violations during the <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fitout-approvals-dubai-permits-noc-guide">fit-out approval</a> process in Dubai, UAE, why they happen, and the practical steps you can take to avoid rejections, fines, and stop-work situations.</p>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-process-2026">Dubai Municipality&apos;s</a> building permit framework includes technical checks and inspections as part of the wider approval journey.</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-step-by-step-guide">Dubai Municipality&apos;s</a> building permit framework includes technical checks and inspections as part of the wider approval journey.</p>
 
       <h2>Why DM Approval Rejections Happen in Fit-Out Projects</h2>
 
-      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fit-out-approval-dubai-simple-practical-guide-2026">Fit-out approvals</a> in Dubai are rarely &quot;one-department only.&quot; Even when DM is the main authority, your application may depend on:</p>
+      <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fitout-approvals-dubai-permits-noc-guide">Fit-out approvals</a> in Dubai are rarely &quot;one-department only.&quot; Even when DM is the main authority, your application may depend on:</p>
 
       <ul>
         <li>Building management/landlord requirements (NOCs, access, rules)</li>
-        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fit-out-approval-dubai-simple-practical-guide-2026">Fitout Approvals</a> coordination (Architectural + MEP + method statements)</li>
+        <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fitout-approvals-dubai-permits-noc-guide">Fitout Approvals</a> coordination (Architectural + MEP + method statements)</li>
         <li>Interfaces with other authorities (commonly <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD</a> for fire &amp; life safety, and <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/dewa">DEWA</a> for power/load topics)</li>
       </ul>
 
@@ -27,7 +27,7 @@ export default function BlogContent() {
 
       <h2>Common DM Approval Violations During the Fit-Out Approval Process</h2>
 
-      <p>Below are the issues that most often trigger <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-process-2026">DM Approval</a> objections, resubmissions, or inspection failures.</p>
+      <p>Below are the issues that most often trigger <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-step-by-step-guide">DM Approval</a> objections, resubmissions, or inspection failures.</p>
 
       <h3>1) Drawings Don&apos;t Match the Actual Site Condition</h3>
 
@@ -188,7 +188,7 @@ export default function BlogContent() {
         <img src="https://tey8h8kr4bvj5bie.public.blob.vercel-storage.com/blog/building-approvals-dubai-dubai-municipality-content-1-1770282014471.jpeg" alt="Building Approvals Dubai - Municipality Approval in Dubai: The Most Common Fit-Out Approval Violations" />
       </figure>
 
-      <h3><em><span>Also Read: </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-dm-approvals-compliance-guide"><span>Dubai Municipality (DM): Approvals &amp; Compliance Guide 2026</span></a></h3>
+      <h3><em><span>Also Read: </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approval-step-by-step-guide"><span>Dubai Municipality (DM): Approvals &amp; Compliance Guide 2026</span></a></h3>
 
       <h2>Step-by-step (works for most fit-out approvals in Dubai)</h2>
 
@@ -283,7 +283,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/modification-approval-villa-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>Ready to Apply?</h2>

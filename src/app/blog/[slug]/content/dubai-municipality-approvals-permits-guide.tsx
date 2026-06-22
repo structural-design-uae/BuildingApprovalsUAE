@@ -70,7 +70,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><em><span>Keep Learning:</span></em></strong><em><span> </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/10-common-fit-out-approval-mistakes-in-dubai-2026"><em><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></em></a></p>
+        <p><strong><em><span>Keep Learning:</span></em></strong><em><span> </span></em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fitout-approvals-dubai-common-mistakes"><em><span>10 Common Fit-Out Approval Mistakes in Dubai 2026</span></em></a></p>
       </blockquote>
 
       <h2>Types of Dubai Municipality Approvals</h2>
@@ -123,7 +123,7 @@ export default function BlogContent() {
       <p>Once all comments are addressed, Dubai Municipality Approval is granted, allowing work to proceed legally.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><span>Why hire a Consultant for Dubai Civil Defence DCD Approval?</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-consultants"><span>Why hire a Consultant for Dubai Civil Defence DCD Approval?</span></a></p>
       </blockquote>
 
       <h2>Documents Required for DM Approval</h2>

@@ -41,7 +41,7 @@ export default function BlogContent() {
       <p>Each stage must be cleared before moving to the next phase of <strong>building approvals</strong>.</p>
 
       <blockquote>
-        <p><em>Must Know: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-secure-a-nakheel-noc-in-dubai-2026"><em>How to Secure a Nakheel NOC in Dubai 2026</em></a></p>
+        <p><em>Must Know: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/nakheel-noc-dubai-permits-guide"><em>How to Secure a Nakheel NOC in Dubai 2026</em></a></p>
       </blockquote>
 
       <figure className="blog-image-figure">
@@ -99,7 +99,7 @@ export default function BlogContent() {
       <p>This stage is essential for final <strong>building approvals and occupancy permits</strong>.</p>
 
       <blockquote>
-        <p>Must Know: <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dcd-approval-dubai-complete-process">Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</a></p>
+        <p>Must Know: <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-permits-noc">Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</a></p>
       </blockquote>
 
       <h2>Documents Required for DEWA Building Approvals</h2>

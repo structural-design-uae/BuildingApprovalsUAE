@@ -1,7 +1,10 @@
-/** Legacy blog slugs that 404 — redirect to current canonical slugs. */
+import { blogPosts } from '@/app/blog/blogData';
+
+/** Legacy blog slugs → final canonical slug (single hop, no chains). */
 export const blogSlugRedirects: Record<string, string> = {
-  'dm-dubai-municipality-approval-2026-complete-guide': 'dubai-municipality-approvals-permits-guide',
+  'dm-dubai-municipality-approval-2026-complete-guide': 'dubai-municipality-approval-step-by-step-guide',
   'dubai-municipality-approval-process-2026': 'dubai-municipality-approval-step-by-step-guide',
+  'dubai-municipality-dm-approvals-compliance-guide': 'dubai-municipality-approval-step-by-step-guide',
   'dcd-approval-dubai-complete-process': 'civil-defense-approvals-dubai-permits-noc',
   'how-to-get-dewa-approvals-in-dubai-2026': 'dewa-approvals-dubai-permits-guide',
   'why-hire-a-consultant-for-dcd-approval': 'civil-defense-approvals-dubai-consultants',
@@ -14,8 +17,24 @@ export const blogSlugRedirects: Record<string, string> = {
   'how-to-secure-a-nakheel-noc-in-dubai-2026': 'nakheel-noc-dubai-permits-guide',
   'how-to-get-dda-authority-approval-in-dubai': 'dda-approvals-dubai-complete-process',
   'fit-out-approval-dubai-simple-practical-guide-2026': 'fitout-approvals-dubai-permits-noc-guide',
-  'dubai-municipality-dm-approvals-compliance-guide': 'dubai-municipality-approvals-compliance-guide',
   'dm-approval-common-fit-out-approval-violations-2026': 'dubai-municipality-approvals-common-violations',
 };
 
-export const deprecatedBlogSlugs = new Set(Object.keys(blogSlugRedirects));
+const duplicatePostRedirects = Object.fromEntries(
+  blogPosts
+    .filter((post) => post.canonicalSlug)
+    .map((post) => [post.slug, post.canonicalSlug!]),
+);
+
+/** All blog slugs that should 301 to a single canonical URL. */
+export const blogCanonicalRedirects: Record<string, string> = {
+  ...blogSlugRedirects,
+  ...duplicatePostRedirects,
+};
+
+/** Slugs excluded from sitemap (legacy + duplicate sources). */
+export const deprecatedBlogSlugs = new Set(Object.keys(blogCanonicalRedirects));
+
+export function resolveBlogCanonicalSlug(slug: string): string {
+  return blogCanonicalRedirects[slug] ?? slug;
+}

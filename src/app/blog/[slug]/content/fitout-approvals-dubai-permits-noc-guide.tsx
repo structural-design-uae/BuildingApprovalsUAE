@@ -79,7 +79,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Must Read:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Must Read:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-approvals-salon-approval"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <figure className="blog-image-figure">
@@ -150,7 +150,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><em><span>Keep Learning: </span></em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/villa-modification-approval-dubai"><em><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></em></a></p>
+        <p><strong><em><span>Keep Learning: </span></em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/modification-approval-villa-dubai"><em><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></em></a></p>
       </blockquote>
 
       <h3>Step 6: Site Inspections &amp; Completion Approval</h3>

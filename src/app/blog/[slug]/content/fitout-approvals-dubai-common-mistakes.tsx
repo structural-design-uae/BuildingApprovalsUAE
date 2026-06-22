@@ -32,7 +32,7 @@ export default function BlogContent() {
       <p>Working hours, noise restrictions, approved materials, core drilling limitations, and mechanical and electrical capacities.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-get-fitout-approvals-in-dubai"><span>How to get Fitout Approvals in Dubai: Step-by-Step Process</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/fitout-approvals-dubai-permits-noc-guide"><span>How to get Fitout Approvals in Dubai: Step-by-Step Process</span></a></p>
       </blockquote>
 
       <h3><strong>Why does this cause delays?</strong></h3>
@@ -142,7 +142,7 @@ export default function BlogContent() {
       <p><strong>Advantage of expert support: </strong>A specialist understands authority expectations, submission sequencing, and common pitfalls, significantly reducing approval delays.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/villa-modification-approval-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Keep Learning:</span></strong> <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/modification-approval-villa-dubai"><span>Villa Modification Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>Practical Example from Dubai</h2>

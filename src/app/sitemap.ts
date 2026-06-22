@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/getAllPosts';
-import { deprecatedBlogSlugs } from '@/lib/blogSlugRedirects';
+import { deprecatedBlogSlugs, resolveBlogCanonicalSlug } from '@/lib/blogSlugRedirects';
 import { blogPosts } from './blog/blogData';
 import { SITE_URL, serviceCanonicalPaths } from './services/serviceSlugs';
 
@@ -48,7 +48,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
 
   const blogPages: MetadataRoute.Sitemap = allPosts
-    .filter((post) => !post.canonicalSlug && !deprecatedBlogSlugs.has(post.slug))
+    .filter((post) => {
+      const canonicalSlug = resolveBlogCanonicalSlug(post.slug);
+      return post.slug === canonicalSlug && !deprecatedBlogSlugs.has(post.slug);
+    })
     .map((post) => {
       const parsed = new Date(post.dateModified || post.date);
       return {

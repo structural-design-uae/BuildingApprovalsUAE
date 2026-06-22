@@ -66,7 +66,7 @@ export default function BlogContent() {
         <li>Fees vary based on project size and type</li>
       </ul>
 
-      <h3><em>Also Read: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></h3>
+      <h3><em>Also Read: </em><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-consultants"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></h3>
 
       <h3>Step 4: Technical Review by DCD</h3>
 

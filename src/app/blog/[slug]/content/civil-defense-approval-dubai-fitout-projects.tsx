@@ -108,7 +108,7 @@ export default function BlogContent() {
 
       <p><strong>Pro Tip:</strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> is required for most Dubai fit-out projects where fire alarm, firefighting, emergency exit, smoke control, or occupancy safety systems are affected. It is especially important for restaurants, offices, retail units, warehouses, clinics, salons, gyms, and high-occupancy commercial spaces.</p>
 
-      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dcd-approval-dubai-complete-process"><em>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</em></a></p>
+      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-permits-noc"><em>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</em></a></p>
 
       <h2>Step-by-Step DCD Approval Process</h2>
 
@@ -132,7 +132,7 @@ export default function BlogContent() {
 
       <h3>4. Submit Drawings Through the DCD System</h3>
 
-      <p>The approved consultant or authorized party submits the drawings and documents for review. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval">Dubai Civil Defence</a> engineering drawing approvals are intended to ensure compliance with DCD regulations.</p>
+      <p>The approved consultant or authorized party submits the drawings and documents for review. <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-consultants">Dubai Civil Defence</a> engineering drawing approvals are intended to ensure compliance with DCD regulations.</p>
 
       <h3>5. Respond to DCD Comments</h3>
 
@@ -150,7 +150,7 @@ export default function BlogContent() {
 
       <p>Once the site passes inspection and all requirements are satisfied, final <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/services/civil-defense">DCD approval</a> or completion-related clearance can be issued based on the project type and authority process.</p>
 
-      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/why-hire-a-consultant-for-dcd-approval"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></p>
+      <p><strong><em>Also Read:</em></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-consultants"><em>Why hire a Consultant for Dubai Civil Defence DCD Approval?</em></a></p>
 
       <h2>Required Documents Checklist</h2>
 

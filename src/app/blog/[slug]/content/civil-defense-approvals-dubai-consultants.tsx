@@ -154,7 +154,7 @@ export default function BlogContent() {
       <p>Missing even one document can delay approval.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dcd-approval-dubai-complete-process"><span>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/civil-defense-approvals-dubai-permits-noc"><span>Dubai Civil Defence Approval (DCD) – Complete Guide for 2026</span></a></p>
       </blockquote>
 
       <h2><strong>Common Reasons for </strong><a target="_blank" rel="noopener noreferrer" href="https://www.dcd.gov.ae/portal/#"><strong>DCD Approval</strong></a><strong> Rejections</strong></h2>
@@ -197,7 +197,7 @@ export default function BlogContent() {
       <p>If your project involves people, electricity, or enclosed spaces, you need expert guidance.</p>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/how-to-secure-a-nakheel-noc-in-dubai-2026"><span>How to Secure a Nakheel NOC in Dubai 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/nakheel-noc-dubai-permits-guide"><span>How to Secure a Nakheel NOC in Dubai 2026</span></a></p>
       </blockquote>
 
       <h2>Frequently Asked Questions (FAQs)</h2>

@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { blogSlugRedirects } from '@/lib/blogSlugRedirects';
+import { blogCanonicalRedirects } from '@/lib/blogSlugRedirects';
+
+const CANONICAL_ORIGIN = 'https://buildingapprovals.ae';
 
 export function middleware(request: NextRequest) {
   const host = request.headers.get('host') ?? '';
@@ -40,49 +42,33 @@ export function middleware(request: NextRequest) {
     '/services/concordia': '/services/concordia-approvals-dubai',
   };
 
-  const canonicalPath =
-    pageRedirects[path] ?? serviceRedirects[path] ?? path;
+  let canonicalPath = pageRedirects[path] ?? serviceRedirects[path] ?? path;
 
-  // Legacy blog slug redirects (old URLs → current canonical slugs)
-  if (path.startsWith('/blog/')) {
-    const legacySlug = path.slice('/blog/'.length);
-    const newSlug = blogSlugRedirects[legacySlug];
-    if (newSlug) {
-      const redirectUrl = new URL(`/blog/${newSlug}` + request.nextUrl.search, 'https://buildingapprovals.ae');
-      return NextResponse.redirect(redirectUrl, 301);
+  if (canonicalPath.startsWith('/blog/')) {
+    const slug = canonicalPath.slice('/blog/'.length);
+    const canonicalSlug = blogCanonicalRedirects[slug];
+    if (canonicalSlug) {
+      canonicalPath = `/blog/${canonicalSlug}`;
     }
   }
 
-  // Redirect www to non-www canonical host (all paths). Do not rewrite Hostinger
-  // preview domains or internal health-check hosts.
   const isWwwHost =
     host === 'www.buildingapprovals.ae' ||
     host === 'www.buildingapprovals.ae:3000' ||
     host.startsWith('www.buildingapprovals.ae:');
 
-  if (isWwwHost) {
-    const redirectUrl = new URL(canonicalPath + request.nextUrl.search, 'https://buildingapprovals.ae');
-    return NextResponse.redirect(redirectUrl, 301);
-  }
+  const needsRedirect = isWwwHost || canonicalPath !== path;
 
-  if (pageRedirects[path] || serviceRedirects[path]) {
-    const redirectUrl = new URL(canonicalPath + request.nextUrl.search, 'https://buildingapprovals.ae');
+  if (needsRedirect) {
+    const redirectUrl = new URL(canonicalPath + request.nextUrl.search, CANONICAL_ORIGIN);
     return NextResponse.redirect(redirectUrl, 301);
   }
 
   return NextResponse.next();
 }
 
-// Apply middleware to all routes
 export const config = {
   matcher: [
-    /*
-     * Match all request paths except for the ones starting with:
-     * - api (API routes)
-     * - _next/static (static files)
-     * - _next/image (image optimization files)
-     * - favicon.ico (favicon file)
-     */
     '/((?!api|_next/static|_next/image|favicon.ico).*)',
   ],
 };

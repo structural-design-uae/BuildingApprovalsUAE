@@ -127,7 +127,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approvals-dm-2026-updated-rules"><span>Dubai Municipality Approvals (DM): Updated Rules 2026</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dubai-municipality-approvals-latest-updates"><span>Dubai Municipality Approvals (DM): Updated Rules 2026</span></a></p>
       </blockquote>
 
       <h2>Why Hire a Consultant for DSO Approval in Dubai?</h2>
@@ -202,7 +202,7 @@ export default function BlogContent() {
       </ul>
 
       <blockquote>
-        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
+        <p><strong><span>Keep Learning: </span></strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-approvals-salon-approval"><span>DM Municipality Salon Approval in Dubai: Complete 2026 Guide</span></a></p>
       </blockquote>
 
       <h2>FAQs: DSO Approval in Dubai</h2>
@@ -231,7 +231,7 @@ export default function BlogContent() {
 
       <ul>
         <li><a target="_blank" rel="noopener noreferrer" href="https://www.dso.ae/">DSO Approval</a> is mandatory for all projects in <a target="_blank" rel="noopener noreferrer" href="https://buildingapprovals.ae/services/dso">Dubai Silicon Oasis</a></li>
-        <li>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-salon-approval-dubai">DIEZ</a> process is zone-specific and technical</li>
+        <li>The <a target="_blank" rel="noopener noreferrer nofollow" href="https://buildingapprovals.ae/blog/dm-municipality-approvals-salon-approval">DIEZ</a> process is zone-specific and technical</li>
         <li>Errors lead to delays, fines, and redesign costs</li>
         <li>Hiring a consultant improves approval speed and compliance</li>
         <li>Professional handling protects both time and budget</li>
